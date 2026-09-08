@@ -1,0 +1,128 @@
+{
+  "note": "Every record resolves to exactly one area. Resolution order: the record's own `area` field if set; else the first district containing its coordinate; else the quadrant named in its address (NW/NE/SW/SE); else the quadrant its coordinate falls in, split at the origin below. `Other` is only ever hand-assigned — it is for the records a Calgary quadrant would misdescribe.",
+  "districts": [
+    {
+      "name": "Beltline",
+      "id": "beltline",
+      "segments": [
+        {
+          "latitude": 51.041,
+          "longitude": -114.0716,
+          "radiusMetres": 600.0
+        },
+        {
+          "latitude": 51.04,
+          "longitude": -114.0834,
+          "radiusMetres": 600.0
+        },
+        {
+          "latitude": 51.0385,
+          "longitude": -114.095,
+          "radiusMetres": 600.0
+        }
+      ]
+    },
+    {
+      "name": "Inglewood",
+      "id": "inglewood",
+      "segments": [
+        {
+          "latitude": 51.0406,
+          "longitude": -114.035,
+          "radiusMetres": 600.0
+        },
+        {
+          "latitude": 51.0323,
+          "longitude": -114.0312,
+          "radiusMetres": 600.0
+        }
+      ]
+    },
+    {
+      "name": "Kensington",
+      "id": "kensington",
+      "segments": [
+        {
+          "latitude": 51.053,
+          "longitude": -114.0875,
+          "radiusMetres": 600.0
+        }
+      ]
+    },
+    {
+      "name": "Bridgeland",
+      "id": "bridgeland",
+      "segments": [
+        {
+          "latitude": 51.0526,
+          "longitude": -114.0491,
+          "radiusMetres": 600.0
+        }
+      ]
+    },
+    {
+      "name": "Downtown",
+      "id": "downtown",
+      "segments": [
+        {
+          "latitude": 51.047,
+          "longitude": -114.0643,
+          "radiusMetres": 600.0
+        },
+        {
+          "latitude": 51.0458,
+          "longitude": -114.0886,
+          "radiusMetres": 600.0
+        }
+      ]
+    },
+    {
+      "name": "Manchester",
+      "id": "manchester",
+      "segments": [
+        {
+          "latitude": 51.0178,
+          "longitude": -114.0559,
+          "radiusMetres": 700.0
+        }
+      ]
+    },
+    {
+      "name": "Mission",
+      "id": "mission",
+      "segments": [
+        {
+          "latitude": 51.0342,
+          "longitude": -114.0697,
+          "radiusMetres": 600.0
+        }
+      ]
+    },
+    {
+      "name": "Marda Loop",
+      "id": "marda-loop",
+      "segments": [
+        {
+          "latitude": 51.0241,
+          "longitude": -114.098,
+          "radiusMetres": 600.0
+        }
+      ]
+    }
+  ],
+  "quadrants": [
+    "NE",
+    "NW",
+    "SE",
+    "SW"
+  ],
+  "quadrantOrigin": {
+    "latitude": 51.0455,
+    "longitude": -114.0629,
+    "note": "Calgary's quadrants meet at Centre Street and Centre Avenue."
+  },
+  "extra": [
+    "Other"
+  ],
+  "districtsAlsoGeofences": "These circles are the app's geofences as well as its area filter, which is why they are circles and not boundaries."
+}

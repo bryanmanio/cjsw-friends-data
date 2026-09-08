@@ -1,0 +1,320 @@
+{
+  "note": "A category maps to exactly one family. Filter by family (there are ten); draw the pin with the family's colour and the category's icon. Icons are SF Symbol names — substitute your own, the names are just labels.",
+  "families": [
+    {
+      "id": "cafe",
+      "label": "Cafés & Bakeries",
+      "shortLabel": "Cafés",
+      "icon": "cup.and.saucer.fill",
+      "colour": "#8C6142"
+    },
+    {
+      "id": "dining",
+      "label": "Restaurants",
+      "shortLabel": "Restaurants",
+      "icon": "fork.knife",
+      "colour": "#E67021"
+    },
+    {
+      "id": "shop",
+      "label": "Shopping",
+      "shortLabel": "Shopping",
+      "icon": "tshirt.fill",
+      "colour": "#D94080"
+    },
+    {
+      "id": "culture",
+      "label": "Culture & Nightlife",
+      "shortLabel": "Culture",
+      "icon": "party.popper.fill",
+      "colour": "#824CC7"
+    },
+    {
+      "id": "drink",
+      "label": "Breweries & Liquor",
+      "shortLabel": "Breweries",
+      "icon": "mug.fill",
+      "colour": "#C7991C"
+    },
+    {
+      "id": "service",
+      "label": "Services",
+      "shortLabel": "Services",
+      "icon": "briefcase.fill",
+      "colour": "#4A5CB8"
+    },
+    {
+      "id": "paper",
+      "label": "Books, Art & Gifts",
+      "shortLabel": "Books & Gifts",
+      "icon": "books.vertical.fill",
+      "colour": "#178F8F"
+    },
+    {
+      "id": "outdoors",
+      "label": "Outdoors, Pets & Toys",
+      "shortLabel": "Outdoors",
+      "icon": "pawprint.fill",
+      "colour": "#2182C9"
+    },
+    {
+      "id": "wellness",
+      "label": "Health & Beauty",
+      "shortLabel": "Wellness",
+      "icon": "cross.case.fill",
+      "colour": "#339454"
+    },
+    {
+      "id": "other",
+      "label": "Other",
+      "shortLabel": "Other",
+      "icon": "tag.fill",
+      "colour": "#737880"
+    }
+  ],
+  "categories": {
+    "Apparel & Accessories": {
+      "family": "shop",
+      "icon": "tshirt.fill"
+    },
+    "Art Galleries & Museums": {
+      "family": "culture",
+      "icon": "building.columns.fill"
+    },
+    "Art Supplies": {
+      "family": "paper",
+      "icon": "paintbrush.pointed.fill"
+    },
+    "Baked Goods": {
+      "family": "cafe",
+      "icon": "birthday.cake.fill"
+    },
+    "Books & News": {
+      "family": "paper",
+      "icon": "books.vertical.fill"
+    },
+    "Breweries & Distilleries": {
+      "family": "drink",
+      "icon": "mug.fill"
+    },
+    "Cannabis": {
+      "family": "drink",
+      "icon": "leaf.fill"
+    },
+    "Cards, Stationary & Gifts": {
+      "family": "paper",
+      "icon": "gift.fill"
+    },
+    "Catering": {
+      "family": "dining",
+      "icon": "frying.pan.fill"
+    },
+    "Cinemas": {
+      "family": "culture",
+      "icon": "film.fill"
+    },
+    "Coffee, Tea, & Spice Shops": {
+      "family": "cafe",
+      "icon": "cup.and.saucer.fill"
+    },
+    "Drug Stores & Supermarkets": {
+      "family": "service",
+      "icon": "cart.fill"
+    },
+    "Entertainment & Festivals": {
+      "family": "culture",
+      "icon": "party.popper.fill"
+    },
+    "Furnishing & Decor": {
+      "family": "shop",
+      "icon": "sofa.fill"
+    },
+    "Hair & Beauty": {
+      "family": "wellness",
+      "icon": "scissors"
+    },
+    "Health & Wellness": {
+      "family": "wellness",
+      "icon": "cross.case.fill"
+    },
+    "Liquor Stores": {
+      "family": "drink",
+      "icon": "wineglass.fill"
+    },
+    "Music & Video": {
+      "family": "culture",
+      "icon": "music.note"
+    },
+    "Music Lessons": {
+      "family": "culture",
+      "icon": "pianokeys"
+    },
+    "Non-Profits & Societies": {
+      "family": "service",
+      "icon": "hands.sparkles.fill"
+    },
+    "Outdoor & Gardening": {
+      "family": "outdoors",
+      "icon": "leaf.fill"
+    },
+    "Pet Supplies & Care": {
+      "family": "outdoors",
+      "icon": "pawprint.fill"
+    },
+    "Professional Services": {
+      "family": "service",
+      "icon": "briefcase.fill"
+    },
+    "Restaurants & Bars": {
+      "family": "dining",
+      "icon": "fork.knife"
+    },
+    "Sporting Goods & Athletic Wear": {
+      "family": "shop",
+      "icon": "figure.run"
+    },
+    "Toys & Hobbies": {
+      "family": "outdoors",
+      "icon": "teddybear.fill"
+    }
+  },
+  "fallbackKeywords": [
+    {
+      "contains": "coffee",
+      "useCategory": "Coffee, Tea, & Spice Shops"
+    },
+    {
+      "contains": "bakery",
+      "useCategory": "Baked Goods"
+    },
+    {
+      "contains": "baked",
+      "useCategory": "Baked Goods"
+    },
+    {
+      "contains": "brew",
+      "useCategory": "Breweries & Distilleries"
+    },
+    {
+      "contains": "distiller",
+      "useCategory": "Breweries & Distilleries"
+    },
+    {
+      "contains": "liquor",
+      "useCategory": "Liquor Stores"
+    },
+    {
+      "contains": "restaurant",
+      "useCategory": "Restaurants & Bars"
+    },
+    {
+      "contains": "bar",
+      "useCategory": "Restaurants & Bars"
+    },
+    {
+      "contains": "food",
+      "useCategory": "Restaurants & Bars"
+    },
+    {
+      "contains": "cannabis",
+      "useCategory": "Cannabis"
+    },
+    {
+      "contains": "cater",
+      "useCategory": "Catering"
+    },
+    {
+      "contains": "apparel",
+      "useCategory": "Apparel & Accessories"
+    },
+    {
+      "contains": "cloth",
+      "useCategory": "Apparel & Accessories"
+    },
+    {
+      "contains": "sport",
+      "useCategory": "Sporting Goods & Athletic Wear"
+    },
+    {
+      "contains": "furnish",
+      "useCategory": "Furnishing & Decor"
+    },
+    {
+      "contains": "music",
+      "useCategory": "Music & Video"
+    },
+    {
+      "contains": "art",
+      "useCategory": "Art Galleries & Museums"
+    },
+    {
+      "contains": "cinema",
+      "useCategory": "Cinemas"
+    },
+    {
+      "contains": "entertain",
+      "useCategory": "Entertainment & Festivals"
+    },
+    {
+      "contains": "book",
+      "useCategory": "Books & News"
+    },
+    {
+      "contains": "news",
+      "useCategory": "Books & News"
+    },
+    {
+      "contains": "gift",
+      "useCategory": "Cards, Stationary & Gifts"
+    },
+    {
+      "contains": "service",
+      "useCategory": "Professional Services"
+    },
+    {
+      "contains": "profit",
+      "useCategory": "Non-Profits & Societies"
+    },
+    {
+      "contains": "grocer",
+      "useCategory": "Drug Stores & Supermarkets"
+    },
+    {
+      "contains": "supermarket",
+      "useCategory": "Drug Stores & Supermarkets"
+    },
+    {
+      "contains": "health",
+      "useCategory": "Health & Wellness"
+    },
+    {
+      "contains": "wellness",
+      "useCategory": "Health & Wellness"
+    },
+    {
+      "contains": "beauty",
+      "useCategory": "Hair & Beauty"
+    },
+    {
+      "contains": "hair",
+      "useCategory": "Hair & Beauty"
+    },
+    {
+      "contains": "pet",
+      "useCategory": "Pet Supplies & Care"
+    },
+    {
+      "contains": "toy",
+      "useCategory": "Toys & Hobbies"
+    },
+    {
+      "contains": "garden",
+      "useCategory": "Outdoor & Gardening"
+    },
+    {
+      "contains": "outdoor",
+      "useCategory": "Outdoor & Gardening"
+    }
+  ],
+  "fallbackNote": "Match a category exactly first. If it is not in `categories`, lowercase it and use the first keyword it contains. If none match, it belongs to the family `other`."
+}
