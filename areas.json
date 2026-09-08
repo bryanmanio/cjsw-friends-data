@@ -1,5 +1,25 @@
 {
-  "note": "Every record resolves to exactly one area. Resolution order: the record's own `area` field if set; else the first district containing its coordinate; else the quadrant named in its address (NW/NE/SW/SE); else the quadrant its coordinate falls in, split at the origin below. `Other` is only ever hand-assigned — it is for the records a Calgary quadrant would misdescribe.",
+  "districtByID": {
+    "46500": "Downtown",
+    "958500": "Downtown",
+    "9932201": "Downtown",
+    "1518200": "Downtown",
+    "2462800": "Downtown",
+    "4695400": "Downtown",
+    "9222500": "Downtown",
+    "7295600": "Inglewood",
+    "2687600": "Inglewood",
+    "1486801": "Kensington",
+    "9219900": "Manchester",
+    "957203": "Manchester",
+    "9222600": "Manchester",
+    "6042600": "Marda Loop",
+    "38201": "Marda Loop",
+    "9218000": "Marda Loop",
+    "1518201": "Marda Loop"
+  },
+  "note": "Every record resolves to exactly one area. Resolution order: the record's own `area` field if set; else `districtByID` for its id; else the first district whose circle contains its coordinate; else the quadrant named in its address (NW/NE/SW/SE); else the quadrant its coordinate falls in, split at the origin below. `Other` is only ever hand-assigned — it is for the records a Calgary quadrant would misdescribe.",
+  "districtByIDNote": "Point-in-polygon against the City of Calgary's community boundaries, for the locations the circles miss. A circle here is a geofence sized by business density, not a boundary.",
   "districts": [
     {
       "name": "Beltline",

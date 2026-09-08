@@ -25,6 +25,7 @@ Nothing here needs a parser beyond your language's JSON. The shape, as Kotlin:
 data class Friend(
     val id: Int,
     val name: String,
+    val branch: String? = null,
     val deal: String,
     val category: String,
     val neighbourhood: String,      // ignore this one — see the table below
@@ -36,6 +37,7 @@ data class Friend(
     val phone: String? = null,
     val placeID: String? = null,
     val photo: String? = null,
+    val closed: Boolean = false,
 )
 
 val friends = Json { ignoreUnknownKeys = true }
@@ -60,7 +62,8 @@ Every key is present on every record. `null` means "not known", never "empty".
 | Field | Type | Present | Notes |
 | --- | --- | --- | --- |
 | `id` | int | 203/203 | See above. Stable; safe as a primary key. |
-| `name` | string | 203/203 | A multi-location business gets its street appended: `Purr (940 17 Ave SW)`. |
+| `name` | string | 203/203 | The business. Two locations of one business share it — group on `id / 100`, not on the name. |
+| `branch` | string \| null | 74/203 | The street label that tells two locations apart (`940 17 Ave SW`). `null` for a business with one address. |
 | `deal` | string | 203/203 | The offer, verbatim. `Friends Card discount` is the fallback when the source gives no detail — treat it as "unspecified". |
 | `category` | string | 203/203 | One of the 26 in `categories.json`. |
 | `neighbourhood` | string | 203/203 | **Don't use this.** The source's own tag: 28 free-text values, 67 records carry the literal string `No Address`, and the ones that exist are not geographically coherent. Kept only because it is in the upstream payload. Use `area` / `areas.json`. |
@@ -71,6 +74,7 @@ Every key is present on every record. `null` means "not known", never "empty".
 | `phone` | string \| null | 176/203 | Digits as entered — no formatting, no country code, occasionally with punctuation. |
 | `placeID` | string \| null | 198/203 | Google Places id, resolved by business name, not by address geocode. Use it to fetch hours, rating and open/closed live. |
 | `photo` | string \| null | 143/203 | The business's own `og:image`. Collected but unused: about half are logos or banners rather than photos of the place. Quality varies; check before shipping it. |
+| `closed` | bool | 203/203 | `true` when Google reported the location permanently closed at the last audit. It is a stored conclusion, not a live check — re-verify against `placeID` before telling anyone a shop has shut. Businesses confirmed gone are removed outright rather than flagged. |
 
 ### Two things that will bite you
 
@@ -104,9 +108,15 @@ first match in `fallbackKeywords`; if nothing matches, the family is `other`.
 `areas.json` describes the geography filter. Resolution order for a record:
 
 1. its own `area` field, if set;
-2. the first district in `districts` whose circle contains its coordinate;
-3. the quadrant named in its `address` (`NW`, `NE`, `SW`, `SE`) — last match in the string wins;
-4. the quadrant its coordinate falls in, split at `quadrantOrigin`.
+2. the district in `districtByID` for its id, if there is one — a lookup table built by
+   point-in-polygon against the City of Calgary's community boundaries, for locations a
+   circle misses;
+3. the first district in `districts` whose circle contains its coordinate;
+4. the quadrant named in its `address` (`NW`, `NE`, `SW`, `SE`) — last match in the string wins;
+5. the quadrant its coordinate falls in, split at `quadrantOrigin`.
+
+63 locations stop at a quadrant, and that is correct: Bowness, Forest Lawn and Seton have
+no district here, and filing them under the nearest one 7 km away would be worse.
 
 `Other` is hand-assignment only. Blindman Brewing is in Lacombe, 150 km north — the
 quadrant rule calls that "NE", which is true of the compass and a lie about the

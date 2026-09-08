@@ -2,6 +2,7 @@
   {
     "id": 10304900,
     "name": "Soma Hammam & Spa",
+    "branch": null,
     "deal": "Friends Card discount",
     "category": "Health & Wellness",
     "neighbourhood": "Seton",
@@ -12,11 +13,13 @@
     "longitude": -113.956238,
     "phone": "4036514668",
     "placeID": "ChIJKVOZTW-dcVMRu9GYUS3yFw4",
-    "photo": null
+    "photo": null,
+    "closed": false
   },
   {
     "id": 10131900,
     "name": "Brewsmith Brewing",
+    "branch": null,
     "deal": "10% off dine-in food & drinks",
     "category": "Breweries & Distilleries",
     "neighbourhood": "Inglewood/Ramsay",
@@ -27,11 +30,13 @@
     "longitude": -114.05216217041016,
     "phone": null,
     "placeID": "ChIJ45YoXwBvcVMR13qVqmXAERc",
-    "photo": "https://www.brewsmithbrewing.ca/uploads/b/8019a3a0-a9a7-11ee-a5d8-1d6f12040957/IG-POST-1%20(1).png"
+    "photo": "https://www.brewsmithbrewing.ca/uploads/b/8019a3a0-a9a7-11ee-a5d8-1d6f12040957/IG-POST-1%20(1).png",
+    "closed": false
   },
   {
     "id": 10131300,
     "name": "Needs Must Cafe",
+    "branch": null,
     "deal": "10% off",
     "category": "Baked Goods",
     "neighbourhood": "Downtown",
@@ -42,11 +47,13 @@
     "longitude": -114.0669132,
     "phone": null,
     "placeID": "ChIJf9sutmxvcVMR-9OEg56L6d0",
-    "photo": null
+    "photo": null,
+    "closed": false
   },
   {
     "id": 10131200,
     "name": "Sweet Loretta",
+    "branch": null,
     "deal": "10% off food",
     "category": "Restaurants & Bars",
     "neighbourhood": "Downtown",
@@ -57,11 +64,13 @@
     "longitude": -114.077557,
     "phone": "1 5875764046",
     "placeID": "ChIJVfuP5pFvcVMRPx94Bupuc7s",
-    "photo": "https://static1.squarespace.com/static/640936ebf8282b4923b9595d/t/64f9aa7de50c7925e8f09847/1694083709973/orange.png?format=1500w"
+    "photo": "https://static1.squarespace.com/static/640936ebf8282b4923b9595d/t/64f9aa7de50c7925e8f09847/1694083709973/orange.png?format=1500w",
+    "closed": false
   },
   {
     "id": 9972900,
     "name": "BraTopia",
+    "branch": null,
     "deal": "10% off",
     "category": "Apparel & Accessories",
     "neighbourhood": "No Address",
@@ -72,11 +81,13 @@
     "longitude": -114.0513518,
     "phone": "(403) 984-6694",
     "placeID": "ChIJ6xKfAl1lcVMRZPcc4Bt5g74",
-    "photo": "https://bratopia.ca/cdn/shop/files/BraTopia_Logo_1_8a0c4ccf-3783-456e-b49a-021b42682ee4.png?v=1741902159"
+    "photo": "https://bratopia.ca/cdn/shop/files/BraTopia_Logo_1_8a0c4ccf-3783-456e-b49a-021b42682ee4.png?v=1741902159",
+    "closed": false
   },
   {
     "id": 9968800,
     "name": "Eight Ounce Coffee Club",
+    "branch": null,
     "deal": "10% off any item excluding pour-overs, consumable items (coffee beans, alternative milk cartons, chai concentrate cartons, etc.), mochi donuts, and orders over $500",
     "category": "Coffee, Tea, & Spice Shops",
     "neighbourhood": "No Address",
@@ -87,11 +98,13 @@
     "longitude": -114.031943,
     "phone": "(403) 457-9844",
     "placeID": "ChIJhxAFMWpwcVMRrc4Vj9_en0U",
-    "photo": "https://eightouncecoffee.ca/cdn/shop/files/8OZ_Wordmark_White_e3ad42b7-2951-4bb2-abaf-e2b4e61d4370.png?height=628&pad_color=fff&v=1674770013&width=1200"
+    "photo": "https://eightouncecoffee.ca/cdn/shop/files/8OZ_Wordmark_White_e3ad42b7-2951-4bb2-abaf-e2b4e61d4370.png?height=628&pad_color=fff&v=1674770013&width=1200",
+    "closed": false
   },
   {
     "id": 9939400,
     "name": "Civic Tavern",
+    "branch": null,
     "deal": "10% off",
     "category": "Restaurants & Bars",
     "neighbourhood": "No Address",
@@ -102,11 +115,13 @@
     "longitude": -114.0667296,
     "phone": "403-453-4114",
     "placeID": "ChIJEyC9301xcVMRT7sRxOoWblg",
-    "photo": null
+    "photo": null,
+    "closed": false
   },
   {
     "id": 9932200,
-    "name": "Hedkandi Salon (146 13 Ave SW)",
+    "name": "Hedkandi Salon",
+    "branch": "146 13 Ave SW",
     "deal": "10% off services and retail (retail discount only applies with the purchase of a service)",
     "category": "Hair & Beauty",
     "neighbourhood": "No Address",
@@ -117,11 +132,13 @@
     "longitude": -114.0652864,
     "phone": "(403) 512-9830",
     "placeID": "ChIJXV29KANwcVMRSb4MPtmvvYI",
-    "photo": "https://static1.squarespace.com/static/6843590080178165638c4e8d/t/68b202b10befc4745bac0b5d/1756496561979/Hedkandi+Brand+Guide+.png?format=1500w"
+    "photo": "https://static1.squarespace.com/static/6843590080178165638c4e8d/t/68b202b10befc4745bac0b5d/1756496561979/Hedkandi+Brand+Guide+.png?format=1500w",
+    "closed": false
   },
   {
     "id": 9932201,
-    "name": "Hedkandi Salon (8 Avenue Southwest)",
+    "name": "Hedkandi Salon",
+    "branch": "315 8 Ave SW #161",
     "deal": "10% off services and retail (retail discount only applies with the purchase of a service)",
     "category": "Hair & Beauty",
     "neighbourhood": "No Address",
@@ -132,11 +149,13 @@
     "longitude": -114.0690383,
     "phone": "403 237 8458",
     "placeID": "ChIJTW_fJv1vcVMRqJ3n1mZQhak",
-    "photo": "https://static1.squarespace.com/static/6843590080178165638c4e8d/t/68b202b10befc4745bac0b5d/1756496561979/Hedkandi+Brand+Guide+.png?format=1500w"
+    "photo": "https://static1.squarespace.com/static/6843590080178165638c4e8d/t/68b202b10befc4745bac0b5d/1756496561979/Hedkandi+Brand+Guide+.png?format=1500w",
+    "closed": false
   },
   {
     "id": 9932202,
-    "name": "Hedkandi Salon (1301 8 St SW #105)",
+    "name": "Hedkandi Salon",
+    "branch": "1301 8 St SW #105",
     "deal": "10% off services and retail (retail discount only applies with the purchase of a service)",
     "category": "Hair & Beauty",
     "neighbourhood": "No Address",
@@ -147,11 +166,13 @@
     "longitude": -114.0819652,
     "phone": "403 215 3403",
     "placeID": "ChIJFa4IGOBvcVMRrqbQMX4pxDk",
-    "photo": "https://static1.squarespace.com/static/6843590080178165638c4e8d/t/68b202b10befc4745bac0b5d/1756496561979/Hedkandi+Brand+Guide+.png?format=1500w"
+    "photo": "https://static1.squarespace.com/static/6843590080178165638c4e8d/t/68b202b10befc4745bac0b5d/1756496561979/Hedkandi+Brand+Guide+.png?format=1500w",
+    "closed": false
   },
   {
     "id": 9886000,
-    "name": "Crave Cupcakes (1107 Kensington Rd NW)",
+    "name": "Crave Cupcakes",
+    "branch": "1107 Kensington Rd NW",
     "deal": "10% off walk-in orders for Cupcakes and cookies. Not available for online pre-orders, cakes, baking or retail products.",
     "category": "Baked Goods",
     "neighbourhood": "No Address",
@@ -162,11 +183,13 @@
     "longitude": -114.0863443,
     "phone": null,
     "placeID": "ChIJ0xxrJWZvcVMRoC8jtaq4C34",
-    "photo": "https://www.cravecupcakes.ca/cdn/shop/files/NEW-Branding_Logo_Refresh_PMS295C_1200x1200.png?v=1675717347"
+    "photo": "https://www.cravecupcakes.ca/cdn/shop/files/NEW-Branding_Logo_Refresh_PMS295C_1200x1200.png?v=1675717347",
+    "closed": false
   },
   {
     "id": 9886001,
-    "name": "Crave Cupcakes (222-10816 Macleod Trl)",
+    "name": "Crave Cupcakes",
+    "branch": "222-10816 Macleod Trl",
     "deal": "10% off walk-in orders for Cupcakes and cookies. Not available for online pre-orders, cakes, baking or retail products.",
     "category": "Baked Goods",
     "neighbourhood": "No Address",
@@ -177,11 +200,13 @@
     "longitude": -114.069162,
     "phone": null,
     "placeID": "ChIJn_ZlhTRxcVMRtpuPsa-qJL0",
-    "photo": "https://www.cravecupcakes.ca/cdn/shop/files/NEW-Branding_Logo_Refresh_PMS295C_1200x1200.png?v=1675717347"
+    "photo": "https://www.cravecupcakes.ca/cdn/shop/files/NEW-Branding_Logo_Refresh_PMS295C_1200x1200.png?v=1675717347",
+    "closed": false
   },
   {
     "id": 9886002,
-    "name": "Crave Cupcakes (318 Aspen Glen Landing SW)",
+    "name": "Crave Cupcakes",
+    "branch": "318 Aspen Glen Landing SW",
     "deal": "10% off walk-in orders for Cupcakes and cookies. Not available for online pre-orders, cakes, baking or retail products.",
     "category": "Baked Goods",
     "neighbourhood": "No Address",
@@ -192,11 +217,13 @@
     "longitude": -114.2079059,
     "phone": null,
     "placeID": "ChIJE7PcM8NtcVMRFrLXaHR1YCY",
-    "photo": "https://www.cravecupcakes.ca/cdn/shop/files/NEW-Branding_Logo_Refresh_PMS295C_1200x1200.png?v=1675717347"
+    "photo": "https://www.cravecupcakes.ca/cdn/shop/files/NEW-Branding_Logo_Refresh_PMS295C_1200x1200.png?v=1675717347",
+    "closed": false
   },
   {
     "id": 9886003,
-    "name": "Crave Cupcakes (57 Crowfoot Terrace NW)",
+    "name": "Crave Cupcakes",
+    "branch": "57 Crowfoot Terrace NW",
     "deal": "10% off walk-in orders for Cupcakes and cookies. Not available for online pre-orders, cakes, baking or retail products.",
     "category": "Baked Goods",
     "neighbourhood": "No Address",
@@ -207,11 +234,13 @@
     "longitude": -114.2008819,
     "phone": null,
     "placeID": "ChIJlfgDdx9wcVMRuA2EC4_w1sg",
-    "photo": "https://www.cravecupcakes.ca/cdn/shop/files/NEW-Branding_Logo_Refresh_PMS295C_1200x1200.png?v=1675717347"
+    "photo": "https://www.cravecupcakes.ca/cdn/shop/files/NEW-Branding_Logo_Refresh_PMS295C_1200x1200.png?v=1675717347",
+    "closed": false
   },
   {
     "id": 9860500,
     "name": "Burn Block Social Club",
+    "branch": null,
     "deal": "15% off, excluding guest taps (cider)",
     "category": "Restaurants & Bars",
     "neighbourhood": "No Address",
@@ -222,11 +251,13 @@
     "longitude": -114.0358228,
     "phone": "403-230-9034",
     "placeID": "ChIJMZIJ0DN7cVMRE8VRrDjpuIk",
-    "photo": null
+    "photo": null,
+    "closed": false
   },
   {
     "id": 9852100,
     "name": "Haunted Objects",
+    "branch": null,
     "deal": "10% off",
     "category": "Apparel & Accessories",
     "neighbourhood": "No Address",
@@ -237,11 +268,13 @@
     "longitude": -114.0361002,
     "phone": null,
     "placeID": "ChIJ2fqKNVx7cVMRNemK92KMpwk",
-    "photo": null
+    "photo": null,
+    "closed": false
   },
   {
     "id": 9851500,
     "name": "Wildflower Yoga Collective",
+    "branch": null,
     "deal": "15% off 5, 10, and 20 X passes. Not valid for the New Member Special. Code for discount: CJSWFRIEND",
     "category": "Health & Wellness",
     "neighbourhood": "No Address",
@@ -252,11 +285,13 @@
     "longitude": -114.1333334,
     "phone": "403-801-6959",
     "placeID": "ChIJg0jvw3hvcVMRezFwTKROIr8",
-    "photo": "https://storage.googleapis.com/offeringtree.com/production/uploads/business/square_logo/6e881b9b-f28b-4dd4-bfed-7e77cde3eabf/6e881b9b-f28b-4dd4-bfed-7e77cde3eabf_1729199390049_remoteSquareLogoUrl-square_medium.jpg"
+    "photo": "https://storage.googleapis.com/offeringtree.com/production/uploads/business/square_logo/6e881b9b-f28b-4dd4-bfed-7e77cde3eabf/6e881b9b-f28b-4dd4-bfed-7e77cde3eabf_1729199390049_remoteSquareLogoUrl-square_medium.jpg",
+    "closed": false
   },
   {
     "id": 9845300,
     "name": "OB Sound Room",
+    "branch": null,
     "deal": "10% off (excluding food)",
     "category": "Breweries & Distilleries",
     "neighbourhood": "No Address",
@@ -267,11 +302,13 @@
     "longitude": -114.0661607,
     "phone": null,
     "placeID": "ChIJuUfUxl1xcVMRO0wHvacvzto",
-    "photo": "https://static1.squarespace.com/static/670ebb4be9ed83383f50609b/t/67645826286ac40f8ba94103/1734629431273/Screen+Shot+2024-12-19+at+10.29.54+AM.png?format=1500w"
+    "photo": "https://static1.squarespace.com/static/670ebb4be9ed83383f50609b/t/67645826286ac40f8ba94103/1734629431273/Screen+Shot+2024-12-19+at+10.29.54+AM.png?format=1500w",
+    "closed": false
   },
   {
     "id": 9667900,
     "name": "BuckingJam Palace",
+    "branch": null,
     "deal": "$15 off ticket price",
     "category": "Entertainment & Festivals",
     "neighbourhood": "No Address",
@@ -282,11 +319,13 @@
     "longitude": -114.0829228,
     "phone": "(403) 614-1930",
     "placeID": null,
-    "photo": "https://buckingjampalace.com/wp-content/uploads/2021/07/socialshare-alt.jpg"
+    "photo": "https://buckingjampalace.com/wp-content/uploads/2021/07/socialshare-alt.jpg",
+    "closed": false
   },
   {
     "id": 9667800,
     "name": "Spolumbo’s Fine Foods & Deli",
+    "branch": null,
     "deal": "15% off",
     "category": "Restaurants & Bars",
     "neighbourhood": "Inglewood/Ramsay",
@@ -297,11 +336,13 @@
     "longitude": -114.0340673,
     "phone": "(403) 817-0652",
     "placeID": "ChIJyQpvj4V5cVMRLPJrzNMYNEw",
-    "photo": "https://www.spolumbos.com/wp-content/uploads/2025/03/tony-illustration-2.png"
+    "photo": "https://www.spolumbos.com/wp-content/uploads/2025/03/tony-illustration-2.png",
+    "closed": false
   },
   {
     "id": 9607200,
     "name": "Recordland YYC",
+    "branch": null,
     "deal": "10% off",
     "category": "Music & Video",
     "neighbourhood": "No Address",
@@ -312,11 +353,13 @@
     "longitude": -114.036186,
     "phone": "(403) 919-8663",
     "placeID": "ChIJybv9Va56cVMRW-L0QTpsi4U",
-    "photo": null
+    "photo": null,
+    "closed": false
   },
   {
     "id": 9538900,
     "name": "Calgary Audiology Clinic",
+    "branch": null,
     "deal": "$10 off",
     "category": "Health & Wellness",
     "neighbourhood": "No Address",
@@ -327,11 +370,13 @@
     "longitude": -114.0905924,
     "phone": "(403) 283-4826",
     "placeID": "ChIJLSSuqelvcVMR9q9GYd9zcbc",
-    "photo": null
+    "photo": null,
+    "closed": false
   },
   {
     "id": 9538800,
     "name": "Vera’s Burger Shack",
+    "branch": null,
     "deal": "10% off",
     "category": "Restaurants & Bars",
     "neighbourhood": "Dalhousie/Varsity Estates",
@@ -342,11 +387,13 @@
     "longitude": -114.1437633,
     "phone": "(403) 288 9565",
     "placeID": "ChIJowaVVwBvcVMRekmrsB4TmC0",
-    "photo": null
+    "photo": null,
+    "closed": false
   },
   {
     "id": 9376500,
     "name": "Fix Physio",
+    "branch": null,
     "deal": "15 - 25% off depending on the service",
     "category": "Health & Wellness",
     "neighbourhood": "No Address",
@@ -357,11 +404,13 @@
     "longitude": -114.1288263,
     "phone": "(403) 282 2545",
     "placeID": "ChIJ5WNeLJFvcVMRvTTN_2qbcMY",
-    "photo": "https://static.wixstatic.com/media/eb6e6d_19c9ec82e85f465381f07479fbdd9a21%7Emv2.png/v1/fit/w_2500,h_1330,al_c/eb6e6d_19c9ec82e85f465381f07479fbdd9a21%7Emv2.png"
+    "photo": "https://static.wixstatic.com/media/eb6e6d_19c9ec82e85f465381f07479fbdd9a21%7Emv2.png/v1/fit/w_2500,h_1330,al_c/eb6e6d_19c9ec82e85f465381f07479fbdd9a21%7Emv2.png",
+    "closed": false
   },
   {
     "id": 9222600,
     "name": "Wren Bakehouse",
+    "branch": null,
     "deal": "15% off, online orders only",
     "category": "Baked Goods",
     "neighbourhood": "No Address",
@@ -372,11 +421,13 @@
     "longitude": -114.0627706,
     "phone": "(587) 583-1474",
     "placeID": "ChIJgZx90OhxcVMRfdOHES7RoCI",
-    "photo": "https://static1.squarespace.com/static/64d59199efbe281ee8c6d57c/t/64e27a3b709e751e8639ad7d/1692564030093/Rustic+Wren+white+background.png?format=1500w"
+    "photo": "https://static1.squarespace.com/static/64d59199efbe281ee8c6d57c/t/64e27a3b709e751e8639ad7d/1692564030093/Rustic+Wren+white+background.png?format=1500w",
+    "closed": false
   },
   {
     "id": 9222500,
     "name": "Wild Rabbit Vintage",
+    "branch": null,
     "deal": "15% off our coffee and tea bar drinks, 10% off everything else",
     "category": "Apparel & Accessories",
     "neighbourhood": "No Address",
@@ -387,11 +438,13 @@
     "longitude": -114.0511643,
     "phone": "(403) 720-2967",
     "placeID": "ChIJUSFFB0x7cVMR_1rw3wO1DuM",
-    "photo": null
+    "photo": null,
+    "closed": false
   },
   {
     "id": 9221400,
     "name": "The Rock Shop Experience",
+    "branch": null,
     "deal": "15 % off regular priced items",
     "category": "Apparel & Accessories",
     "neighbourhood": "No Address",
@@ -402,11 +455,13 @@
     "longitude": -114.085638,
     "phone": "(403) 262-7515",
     "placeID": "ChIJwTo1lu5vcVMR7uf77p2c5UQ",
-    "photo": null
+    "photo": null,
+    "closed": false
   },
   {
     "id": 9221100,
     "name": "The Artist Lounge",
+    "branch": null,
     "deal": "10% off regular price food items, cannot be combined with other offers",
     "category": "Restaurants & Bars",
     "neighbourhood": "No Address",
@@ -417,11 +472,13 @@
     "longitude": -114.10442,
     "phone": "(403) 455-0992",
     "placeID": "ChIJV-S7fs5vcVMRICuyFuOU4uk",
-    "photo": "https://static1.squarespace.com/static/6636ee63b498eb358832fd1f/t/6646debf2ba078001df7d402/1715920575230/TAL_LogoLine01%2B%283%29.png?format=1500w"
+    "photo": "https://static1.squarespace.com/static/6636ee63b498eb358832fd1f/t/6646debf2ba078001df7d402/1715920575230/TAL_LogoLine01%2B%283%29.png?format=1500w",
+    "closed": false
   },
   {
     "id": 9219900,
     "name": "RICK RACK Textiles",
+    "branch": null,
     "deal": "10% off regular priced cut to measure fabric in store",
     "category": "Art Supplies",
     "neighbourhood": "No Address",
@@ -432,11 +489,13 @@
     "longitude": -114.0498621,
     "phone": "403-263-8088",
     "placeID": "ChIJ49bXkm17cVMR9zSEMrUIIaQ",
-    "photo": "https://www.rickracktextiles.com/cdn/shop/files/Header_Logo_1.svg?v=1705692245"
+    "photo": "https://www.rickracktextiles.com/cdn/shop/files/Header_Logo_1.svg?v=1705692245",
+    "closed": false
   },
   {
     "id": 9219700,
     "name": "Record High",
+    "branch": null,
     "deal": "30% off accessories",
     "category": "Cannabis",
     "neighbourhood": "No Address",
@@ -447,11 +506,13 @@
     "longitude": -114.1051558,
     "phone": "(403) 453-1916",
     "placeID": "ChIJLy6_2ZdvcVMR8QgVjkfH-pg",
-    "photo": "https://static.wixstatic.com/media/3c39e0_971d72203ee04d82931e6a4bf671dc8e%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/3c39e0_971d72203ee04d82931e6a4bf671dc8e%7Emv2.jpg"
+    "photo": "https://static.wixstatic.com/media/3c39e0_971d72203ee04d82931e6a4bf671dc8e%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/3c39e0_971d72203ee04d82931e6a4bf671dc8e%7Emv2.jpg",
+    "closed": false
   },
   {
     "id": 9219500,
     "name": "Pulp Shred Ltd",
+    "branch": null,
     "deal": "10 % off (Applicable on Security Shred Bags)",
     "category": "Professional Services",
     "neighbourhood": "No Address",
@@ -462,11 +523,13 @@
     "longitude": -114.016248,
     "phone": "(403) 453-9009",
     "placeID": "ChIJf-3hZG9lcVMRsKJRMSluQkk",
-    "photo": null
+    "photo": null,
+    "closed": false
   },
   {
     "id": 9218000,
-    "name": "Neighbour Coffee (4038 16 St SW)",
+    "name": "Neighbour Coffee",
+    "branch": "4038 16 St SW",
     "deal": "10% off",
     "category": "Coffee, Tea, & Spice Shops",
     "neighbourhood": "No Address",
@@ -477,11 +540,13 @@
     "longitude": -114.1001654,
     "phone": "(403) 471-8102",
     "placeID": "ChIJr3EAR8txcVMR9CN1qvTrZxU",
-    "photo": "https://static1.squarespace.com/static/5bf72f2cf79392d6757f8395/t/661de941989afc3de1f51257/1713236289686/NHBR-full-badge-FINAL-%28BLACK%29.png?format=1500w"
+    "photo": "https://static1.squarespace.com/static/5bf72f2cf79392d6757f8395/t/661de941989afc3de1f51257/1713236289686/NHBR-full-badge-FINAL-%28BLACK%29.png?format=1500w",
+    "closed": false
   },
   {
     "id": 9218001,
-    "name": "Neighbour Coffee (1327a 9 Ave SE)",
+    "name": "Neighbour Coffee",
+    "branch": "1327a 9 Ave SE",
     "deal": "10% off",
     "category": "Coffee, Tea, & Spice Shops",
     "neighbourhood": "No Address",
@@ -492,11 +557,13 @@
     "longitude": -114.0327252,
     "phone": "(403) 300-1566",
     "placeID": "ChIJI2IcFO97cVMR6N8GbmVonjU",
-    "photo": "https://static1.squarespace.com/static/5bf72f2cf79392d6757f8395/t/661de941989afc3de1f51257/1713236289686/NHBR-full-badge-FINAL-%28BLACK%29.png?format=1500w"
+    "photo": "https://static1.squarespace.com/static/5bf72f2cf79392d6757f8395/t/661de941989afc3de1f51257/1713236289686/NHBR-full-badge-FINAL-%28BLACK%29.png?format=1500w",
+    "closed": false
   },
   {
     "id": 9217700,
-    "name": "MEOW Charity Thrift Shop (336 41 Ave NE unit 110)",
+    "name": "MEOW Charity Thrift Shop",
+    "branch": "336 41 Ave NE unit 110",
     "deal": "15% off regular price (Sale excludes all MEOW Branded Merch, all Partner items, all MEOW Made items, and all retail items.)",
     "category": "Apparel & Accessories",
     "neighbourhood": "No Address",
@@ -507,11 +574,13 @@
     "longitude": -114.0554884,
     "phone": "(403)230-6033",
     "placeID": "ChIJIdlTsl9lcVMRiPWTTnUDr7E",
-    "photo": null
+    "photo": null,
+    "closed": false
   },
   {
     "id": 9217701,
-    "name": "MEOW Charity Thrift Shop (3711 61 Ave SE)",
+    "name": "MEOW Charity Thrift Shop",
+    "branch": "3711 61 Ave SE",
     "deal": "15% off regular price (Sale excludes all MEOW Branded Merch, all Partner items, all MEOW Made items, and all retail items.)",
     "category": "Apparel & Accessories",
     "neighbourhood": "No Address",
@@ -522,11 +591,13 @@
     "longitude": -113.9804224,
     "phone": "(403) 735-1015",
     "placeID": "ChIJAVCmzf57cVMRYhPkqzrfvH4",
-    "photo": null
+    "photo": null,
+    "closed": false
   },
   {
     "id": 9217500,
     "name": "Lougheed House",
+    "branch": null,
     "deal": "20% off Admissions",
     "category": "Art Galleries & Museums",
     "neighbourhood": "No Address",
@@ -537,11 +608,13 @@
     "longitude": -114.0772065,
     "phone": "403-244-6333",
     "placeID": "ChIJVSv4Fx5wcVMR3Ij5tkLxulg",
-    "photo": "https://static1.squarespace.com/static/66302af3effda330f47dbbb1/t/669038b2ca43796e342ef2b3/1753808404028/Lougheed+House+Main+Web+Image.png?format=1500w"
+    "photo": "https://static1.squarespace.com/static/66302af3effda330f47dbbb1/t/669038b2ca43796e342ef2b3/1753808404028/Lougheed+House+Main+Web+Image.png?format=1500w",
+    "closed": false
   },
   {
     "id": 9217400,
     "name": "Live Edge Axe Throwing",
+    "branch": null,
     "deal": "15% off - 1 or 2 hour axe and knife throwing booking (or walk-in when available)",
     "category": "Entertainment & Festivals",
     "neighbourhood": "No Address",
@@ -552,11 +625,13 @@
     "longitude": -113.9852338,
     "phone": "​ 403-300-3343",
     "placeID": "ChIJN_CvuiR7cVMRKCS7DnfMMQ8",
-    "photo": "https://www.liveedgeaxe.com/uploads/1/4/1/6/141653093/editor/black-horizontal-header.png?1697433781"
+    "photo": "https://www.liveedgeaxe.com/uploads/1/4/1/6/141653093/editor/black-horizontal-header.png?1697433781",
+    "closed": false
   },
   {
     "id": 9217300,
     "name": "Last Best Brewery",
+    "branch": null,
     "deal": "$2.00 off 16 oz pints of beer",
     "category": "Breweries & Distilleries",
     "neighbourhood": "No Address",
@@ -567,11 +642,13 @@
     "longitude": -114.074573,
     "phone": "403-818-9226",
     "placeID": "ChIJtykfE-JvcVMRnIyX8rpE7RE",
-    "photo": null
+    "photo": null,
+    "closed": false
   },
   {
     "id": 9217000,
     "name": "House of Skate",
+    "branch": null,
     "deal": "$2 off regular admission price at the door on Wednesday and Thursday nights",
     "category": "Sporting Goods & Athletic Wear",
     "neighbourhood": "No Address",
@@ -582,11 +659,13 @@
     "longitude": -114.0390988,
     "phone": "(587) 353-8505",
     "placeID": "ChIJ7U805oZxcVMRXweVvfakvh0",
-    "photo": null
+    "photo": null,
+    "closed": false
   },
   {
     "id": 9216800,
     "name": "Hello Vintage",
+    "branch": null,
     "deal": "15% off total price",
     "category": "Apparel & Accessories",
     "neighbourhood": "No Address",
@@ -597,11 +676,13 @@
     "longitude": -114.03495,
     "phone": "(403) 719-4448",
     "placeID": "ChIJbeTOGc97cVMR4g3teNFEM68",
-    "photo": null
+    "photo": null,
+    "closed": false
   },
   {
     "id": 9216300,
     "name": "Element Cafe",
+    "branch": null,
     "deal": "10 % off (exluding Liquor items included with discounts & Limited Time Selections)",
     "category": "Coffee, Tea, & Spice Shops",
     "neighbourhood": "No Address",
@@ -612,11 +693,13 @@
     "longitude": -114.0703057,
     "phone": "(587)532-7338",
     "placeID": "ChIJVRcMxqRxcVMR9xPl-Dfensc",
-    "photo": null
+    "photo": null,
+    "closed": false
   },
   {
     "id": 9215600,
-    "name": "CaseMogul (3625 Shaganappi Trail NW unit g011)",
+    "name": "CaseMogul",
+    "branch": "3625 Shaganappi Trail NW unit g011",
     "deal": "10% off regular priced items / $10 off device repairs",
     "category": "Professional Services",
     "neighbourhood": "No Address",
@@ -627,11 +710,13 @@
     "longitude": -114.1549181,
     "phone": null,
     "placeID": "ChIJhWX57R5vcVMRgrzJq_p9rB0",
-    "photo": "https://cdn.shopify.com/s/files/1/0026/9372/6267/files/CaseMogul-Image_c58ba845-07cc-486a-97bd-910d1b8bab8f.jpg?v=1616460047"
+    "photo": "https://cdn.shopify.com/s/files/1/0026/9372/6267/files/CaseMogul-Image_c58ba845-07cc-486a-97bd-910d1b8bab8f.jpg?v=1616460047",
+    "closed": false
   },
   {
     "id": 9215601,
-    "name": "CaseMogul (999 36 St NE)",
+    "name": "CaseMogul",
+    "branch": "999 36 St NE",
     "deal": "10% off regular priced items / $10 off device repairs",
     "category": "Professional Services",
     "neighbourhood": "No Address",
@@ -642,11 +727,13 @@
     "longitude": -113.984632,
     "phone": null,
     "placeID": "ChIJdxfoM9NkcVMRTOp39qMYQA8",
-    "photo": "https://cdn.shopify.com/s/files/1/0026/9372/6267/files/CaseMogul-Image_c58ba845-07cc-486a-97bd-910d1b8bab8f.jpg?v=1616460047"
+    "photo": "https://cdn.shopify.com/s/files/1/0026/9372/6267/files/CaseMogul-Image_c58ba845-07cc-486a-97bd-910d1b8bab8f.jpg?v=1616460047",
+    "closed": false
   },
   {
     "id": 9215602,
-    "name": "CaseMogul (1212 37 Street SW)",
+    "name": "CaseMogul",
+    "branch": "1212 37 Street SW",
     "deal": "10% off regular priced items / $10 off device repairs",
     "category": "Professional Services",
     "neighbourhood": "No Address",
@@ -657,11 +744,13 @@
     "longitude": -114.1397966,
     "phone": null,
     "placeID": "ChIJl5lhfeJvcVMRrWahEflboU4",
-    "photo": "https://cdn.shopify.com/s/files/1/0026/9372/6267/files/CaseMogul-Image_c58ba845-07cc-486a-97bd-910d1b8bab8f.jpg?v=1616460047"
+    "photo": "https://cdn.shopify.com/s/files/1/0026/9372/6267/files/CaseMogul-Image_c58ba845-07cc-486a-97bd-910d1b8bab8f.jpg?v=1616460047",
+    "closed": false
   },
   {
     "id": 9215603,
-    "name": "CaseMogul (205 5 Ave SW kiosk k238)",
+    "name": "CaseMogul",
+    "branch": "205 5 Ave SW kiosk k238",
     "deal": "10% off regular priced items / $10 off device repairs",
     "category": "Professional Services",
     "neighbourhood": "No Address",
@@ -672,11 +761,13 @@
     "longitude": -114.0658692,
     "phone": null,
     "placeID": "ChIJf1_OE_xvcVMRrnqv4n_B2Eg",
-    "photo": "https://cdn.shopify.com/s/files/1/0026/9372/6267/files/CaseMogul-Image_c58ba845-07cc-486a-97bd-910d1b8bab8f.jpg?v=1616460047"
+    "photo": "https://cdn.shopify.com/s/files/1/0026/9372/6267/files/CaseMogul-Image_c58ba845-07cc-486a-97bd-910d1b8bab8f.jpg?v=1616460047",
+    "closed": false
   },
   {
     "id": 9215604,
-    "name": "CaseMogul (3800 Memorial Dr)",
+    "name": "CaseMogul",
+    "branch": "3800 Memorial Dr",
     "deal": "10% off regular priced items / $10 off device repairs",
     "category": "Professional Services",
     "neighbourhood": "No Address",
@@ -687,11 +778,13 @@
     "longitude": -113.9795596,
     "phone": null,
     "placeID": "ChIJx8kQGHh7cVMRTPwA8_xbh7M",
-    "photo": "https://cdn.shopify.com/s/files/1/0026/9372/6267/files/CaseMogul-Image_c58ba845-07cc-486a-97bd-910d1b8bab8f.jpg?v=1616460047"
+    "photo": "https://cdn.shopify.com/s/files/1/0026/9372/6267/files/CaseMogul-Image_c58ba845-07cc-486a-97bd-910d1b8bab8f.jpg?v=1616460047",
+    "closed": false
   },
   {
     "id": 9215605,
-    "name": "CaseMogul (802 16 Ave SW)",
+    "name": "CaseMogul",
+    "branch": "802 16 Ave SW",
     "deal": "10% off regular priced items / $10 off device repairs",
     "category": "Professional Services",
     "neighbourhood": "No Address",
@@ -702,11 +795,13 @@
     "longitude": -114.0796659,
     "phone": null,
     "placeID": "ChIJiZAs1pdxcVMRGYCHr-4XkGM",
-    "photo": "https://cdn.shopify.com/s/files/1/0026/9372/6267/files/CaseMogul-Image_c58ba845-07cc-486a-97bd-910d1b8bab8f.jpg?v=1616460047"
+    "photo": "https://cdn.shopify.com/s/files/1/0026/9372/6267/files/CaseMogul-Image_c58ba845-07cc-486a-97bd-910d1b8bab8f.jpg?v=1616460047",
+    "closed": false
   },
   {
     "id": 9215606,
-    "name": "CaseMogul (100 Anderson Rd SE)",
+    "name": "CaseMogul",
+    "branch": "100 Anderson Rd SE",
     "deal": "10% off regular priced items / $10 off device repairs",
     "category": "Professional Services",
     "neighbourhood": "No Address",
@@ -717,11 +812,13 @@
     "longitude": -114.0662571,
     "phone": null,
     "placeID": "ChIJs-ZZgsx2cVMRY6LDHb7Fzhs",
-    "photo": "https://cdn.shopify.com/s/files/1/0026/9372/6267/files/CaseMogul-Image_c58ba845-07cc-486a-97bd-910d1b8bab8f.jpg?v=1616460047"
+    "photo": "https://cdn.shopify.com/s/files/1/0026/9372/6267/files/CaseMogul-Image_c58ba845-07cc-486a-97bd-910d1b8bab8f.jpg?v=1616460047",
+    "closed": false
   },
   {
     "id": 9215607,
-    "name": "CaseMogul (310 Shawville Blvd SE)",
+    "name": "CaseMogul",
+    "branch": "310 Shawville Blvd SE",
     "deal": "10% off regular priced items / $10 off device repairs",
     "category": "Professional Services",
     "neighbourhood": "No Address",
@@ -732,11 +829,13 @@
     "longitude": -114.0616458,
     "phone": null,
     "placeID": "ChIJhywcOa93cVMRS1Vtsy1joeY",
-    "photo": "https://cdn.shopify.com/s/files/1/0026/9372/6267/files/CaseMogul-Image_c58ba845-07cc-486a-97bd-910d1b8bab8f.jpg?v=1616460047"
+    "photo": "https://cdn.shopify.com/s/files/1/0026/9372/6267/files/CaseMogul-Image_c58ba845-07cc-486a-97bd-910d1b8bab8f.jpg?v=1616460047",
+    "closed": false
   },
   {
     "id": 9215608,
-    "name": "CaseMogul (261055 Crossiron Blvd)",
+    "name": "CaseMogul",
+    "branch": "261055 Crossiron Blvd",
     "deal": "10% off regular priced items / $10 off device repairs",
     "category": "Professional Services",
     "neighbourhood": "No Address",
@@ -747,11 +846,13 @@
     "longitude": -113.9925623,
     "phone": null,
     "placeID": "ChIJJQR-W_pgcVMRWH7su8yg-rM",
-    "photo": "https://cdn.shopify.com/s/files/1/0026/9372/6267/files/CaseMogul-Image_c58ba845-07cc-486a-97bd-910d1b8bab8f.jpg?v=1616460047"
+    "photo": "https://cdn.shopify.com/s/files/1/0026/9372/6267/files/CaseMogul-Image_c58ba845-07cc-486a-97bd-910d1b8bab8f.jpg?v=1616460047",
+    "closed": false
   },
   {
     "id": 9215100,
     "name": "Calgary International Fringe Festival Society",
+    "branch": null,
     "deal": "2 for 1 Calgary Fringe Theatre Festival tickets! *Offer good for any indoor theatre performance at Calgary Fringe Theatre Festival. * Limited one offer per patron. * Redeemable in person only at the main box office during the run of the Festival.",
     "category": "Entertainment & Festivals",
     "neighbourhood": "No Address",
@@ -762,11 +863,13 @@
     "longitude": -114.0248931,
     "phone": "(403) 451-9726",
     "placeID": null,
-    "photo": "https://static1.squarespace.com/static/59b98b7846c3c47b11059063/t/64c1677377454c4b794c457b/1690396531625/CFF_AGT_820x360.png?format=1500w"
+    "photo": "https://static1.squarespace.com/static/59b98b7846c3c47b11059063/t/64c1677377454c4b794c457b/1690396531625/CFF_AGT_820x360.png?format=1500w",
+    "closed": false
   },
   {
     "id": 9214900,
     "name": "Business and Pleasure",
+    "branch": null,
     "deal": "10% off",
     "category": "Restaurants & Bars",
     "neighbourhood": "No Address",
@@ -777,11 +880,13 @@
     "longitude": -114.0327252,
     "phone": null,
     "placeID": "ChIJ-2heXAh7cVMRjmGmBg0aaSQ",
-    "photo": "https://static1.squarespace.com/static/62c89cc1491fe33d48ec79c7/t/62cdf3440547cb44362bab5f/1657664324796/Business_and_Pleasure_Logos_V01-13.jpg?format=1500w"
+    "photo": "https://static1.squarespace.com/static/62c89cc1491fe33d48ec79c7/t/62cdf3440547cb44362bab5f/1657664324796/Business_and_Pleasure_Logos_V01-13.jpg?format=1500w",
+    "closed": false
   },
   {
     "id": 9213300,
     "name": "Best of Kin Social",
+    "branch": null,
     "deal": "10% off all Best of Kin Draught Beer",
     "category": "Breweries & Distilleries",
     "neighbourhood": "No Address",
@@ -792,11 +897,13 @@
     "longitude": -114.0950112,
     "phone": "(825) 413-4233",
     "placeID": "ChIJQbrYqcVvcVMRMXbdi9H39lE",
-    "photo": "https://static1.squarespace.com/static/65e899ab5e6ee62dc3c79b66/t/65e8ab21a98c695fedfd65bc/1709746977862/bok-white.png?format=1500w"
+    "photo": "https://static1.squarespace.com/static/65e899ab5e6ee62dc3c79b66/t/65e8ab21a98c695fedfd65bc/1709746977862/bok-white.png?format=1500w",
+    "closed": false
   },
   {
     "id": 9213200,
     "name": "Bell’s Cafe",
+    "branch": null,
     "deal": "Now 10% off under new ownership (excluding coffee beans)!",
     "category": "Coffee, Tea, & Spice Shops",
     "neighbourhood": "No Address",
@@ -807,11 +914,13 @@
     "longitude": -114.095665,
     "phone": "(403) 474-2233",
     "placeID": "ChIJfWR90jNwcVMRwX4anmgTunY",
-    "photo": null
+    "photo": null,
+    "closed": false
   },
   {
     "id": 9213100,
-    "name": "Aroma Café Bar (1845 33 Ave SW)",
+    "name": "Aroma Café Bar",
+    "branch": "1845 33 Ave SW",
     "deal": "10% off",
     "category": "Coffee, Tea, & Spice Shops",
     "neighbourhood": "No Address",
@@ -822,11 +931,13 @@
     "longitude": -114.1042103,
     "phone": "403-355-1869",
     "placeID": "ChIJP5PUx3ZxcVMRsTH2TQ5x4L8",
-    "photo": "https://static.wixstatic.com/media/e98b5d_aa0c942ad29040ebba8f4c19097aef3f%7Emv2.avif/v1/fit/w_2500,h_1330,al_c/e98b5d_aa0c942ad29040ebba8f4c19097aef3f%7Emv2.avif"
+    "photo": "https://static.wixstatic.com/media/e98b5d_aa0c942ad29040ebba8f4c19097aef3f%7Emv2.avif/v1/fit/w_2500,h_1330,al_c/e98b5d_aa0c942ad29040ebba8f4c19097aef3f%7Emv2.avif",
+    "closed": false
   },
   {
     "id": 9213101,
-    "name": "Aroma Café Bar (1721 29 Ave SW #130)",
+    "name": "Aroma Café Bar",
+    "branch": "1721 29 Ave SW #130",
     "deal": "10% off",
     "category": "Coffee, Tea, & Spice Shops",
     "neighbourhood": "No Address",
@@ -837,11 +948,13 @@
     "longitude": -114.1007114,
     "phone": "403-355-1869",
     "placeID": "ChIJV7dcPyVxcVMRP5UlqUinkeI",
-    "photo": "https://static.wixstatic.com/media/e98b5d_aa0c942ad29040ebba8f4c19097aef3f%7Emv2.avif/v1/fit/w_2500,h_1330,al_c/e98b5d_aa0c942ad29040ebba8f4c19097aef3f%7Emv2.avif"
+    "photo": "https://static.wixstatic.com/media/e98b5d_aa0c942ad29040ebba8f4c19097aef3f%7Emv2.avif/v1/fit/w_2500,h_1330,al_c/e98b5d_aa0c942ad29040ebba8f4c19097aef3f%7Emv2.avif",
+    "closed": false
   },
   {
     "id": 9212900,
     "name": "Angel’s Cafe",
+    "branch": null,
     "deal": "10% off",
     "category": "Coffee, Tea, & Spice Shops",
     "neighbourhood": "No Address",
@@ -852,11 +965,13 @@
     "longitude": -114.1524466,
     "phone": "(403)452-0164",
     "placeID": "ChIJ21RzXFFucVMRASPt2g_w9lU",
-    "photo": "https://angelscafe.ca/wp-content/uploads/2022/04/Youre-Invited-1.png"
+    "photo": "https://angelscafe.ca/wp-content/uploads/2022/04/Youre-Invited-1.png",
+    "closed": false
   },
   {
     "id": 9212700,
     "name": "17th Ave Thrift",
+    "branch": null,
     "deal": "15% Off",
     "category": "Apparel & Accessories",
     "neighbourhood": "No Address",
@@ -867,11 +982,13 @@
     "longitude": -114.1233059,
     "phone": "(403) 453-1305",
     "placeID": "ChIJs434Z41vcVMRNkXqKG4Vz8g",
-    "photo": null
+    "photo": null,
+    "closed": false
   },
   {
     "id": 8818400,
     "name": "Regal Cat Cafe",
+    "branch": null,
     "deal": "10% off handcrafted beverages of any size. Does not include canned or bottled drinks.",
     "category": "Coffee, Tea, & Spice Shops",
     "neighbourhood": "Hillhurst/Sunnyside",
@@ -882,11 +999,13 @@
     "longitude": -114.0862465,
     "phone": "(403) 455-2287",
     "placeID": "ChIJ0a7jxu5vcVMRl35eIoe5YPA",
-    "photo": "https://static1.squarespace.com/static/5df5bacb2bc9487db2590aad/t/62dae6942f1c4f49ed15ef75/1658513044807/RCC+%2B+MEOW+-+Black%281%29.png?format=1500w"
+    "photo": "https://static1.squarespace.com/static/5df5bacb2bc9487db2590aad/t/62dae6942f1c4f49ed15ef75/1658513044807/RCC+%2B+MEOW+-+Black%281%29.png?format=1500w",
+    "closed": false
   },
   {
     "id": 8554700,
     "name": "Tubby’s",
+    "branch": null,
     "deal": "10% off regular priced menu items",
     "category": "Restaurants & Bars",
     "neighbourhood": "Beltline",
@@ -897,11 +1016,13 @@
     "longitude": -114.081292,
     "phone": "(403) 554-3644",
     "placeID": "ChIJ3cBv6KJvcVMRPf0rnW1jtpE",
-    "photo": "https://static1.squarespace.com/static/588b7c15e3df28d363629351/t/673682f69846930d7690fba6/1731625723228/tubbybar.NOV.5.OL-01.jpg?format=1500w"
+    "photo": "https://static1.squarespace.com/static/588b7c15e3df28d363629351/t/673682f69846930d7690fba6/1731625723228/tubbybar.NOV.5.OL-01.jpg?format=1500w",
+    "closed": false
   },
   {
     "id": 8355600,
     "name": "Kensington Wine Market",
+    "branch": null,
     "deal": "10% off (Sale items, tastings, and Scotch Malt Whisky Society products)",
     "category": "Liquor Stores",
     "neighbourhood": "Hillhurst/Sunnyside",
@@ -912,11 +1033,13 @@
     "longitude": -114.0916856,
     "phone": "403-283-8000",
     "placeID": "ChIJ06pCsOlvcVMRY9kKu9QbiNc",
-    "photo": null
+    "photo": null,
+    "closed": false
   },
   {
     "id": 8355500,
     "name": "High Line Brewery",
+    "branch": null,
     "deal": "10% off pints in taproom",
     "category": "Breweries & Distilleries",
     "neighbourhood": "Inglewood/Ramsay",
@@ -927,11 +1050,13 @@
     "longitude": -114.0328498,
     "phone": "403 827 6985",
     "placeID": "ChIJYyrelK96cVMRNxdJiM1_1bU",
-    "photo": "https://static1.squarespace.com/static/57026fc34c2f85f4f9bfbd2d/t/5f919d84fa022955f7d8164a/1603378567536/HLB_Icon_Black.png?format=1500w"
+    "photo": "https://static1.squarespace.com/static/57026fc34c2f85f4f9bfbd2d/t/5f919d84fa022955f7d8164a/1603378567536/HLB_Icon_Black.png?format=1500w",
+    "closed": false
   },
   {
     "id": 8265700,
     "name": "Two Wheel View",
+    "branch": null,
     "deal": "10 percent off bikes, 15 percent off everything else",
     "category": "Sporting Goods & Athletic Wear",
     "neighbourhood": "No Address",
@@ -942,11 +1067,13 @@
     "longitude": -114.041214,
     "phone": "(403) 744-5443",
     "placeID": "ChIJMzSdMR1wcVMRyp4dDpO1zvI",
-    "photo": "https://cdn.prod.website-files.com/608da00685bbf4095bb69f9a/608da4270a4fa3a9b7c8a793_social-share.jpg"
+    "photo": "https://cdn.prod.website-files.com/608da00685bbf4095bb69f9a/608da4270a4fa3a9b7c8a793_social-share.jpg",
+    "closed": false
   },
   {
     "id": 8091600,
     "name": "Congress Coffee Company",
+    "branch": null,
     "deal": "15% off sandwiches",
     "category": "Coffee, Tea, & Spice Shops",
     "neighbourhood": "Tuxedo Park",
@@ -957,11 +1084,13 @@
     "longitude": -114.0583896,
     "phone": "(403) 615-0764",
     "placeID": "ChIJi7s9KmhlcVMRcdXr6wN4OXU",
-    "photo": "https://www.congresscoffeeshop.com/uploads/b/1159b960-dc94-11ee-99c1-23f16e9bbc84/diecut_sticker.jpg"
+    "photo": "https://www.congresscoffeeshop.com/uploads/b/1159b960-dc94-11ee-99c1-23f16e9bbc84/diecut_sticker.jpg",
+    "closed": false
   },
   {
     "id": 7882100,
     "name": "Nick’s Steakhouse & Pizza",
+    "branch": null,
     "deal": "10% off food, dine-in only",
     "category": "Restaurants & Bars",
     "neighbourhood": "No Address",
@@ -972,11 +1101,13 @@
     "longitude": -114.117139,
     "phone": "(403) 921-4236",
     "placeID": "ChIJOabzc6FvcVMRHtwFl3imFfQ",
-    "photo": "https://nickssteakandpizza.com/wp-content/uploads/2024/12/Nicks-Steakhouse-17-scaled.jpg"
+    "photo": "https://nickssteakandpizza.com/wp-content/uploads/2024/12/Nicks-Steakhouse-17-scaled.jpg",
+    "closed": false
   },
   {
     "id": 7756600,
     "name": "Vegan Street Inglewood",
+    "branch": null,
     "deal": "10% off regular priced items",
     "category": "Restaurants & Bars",
     "neighbourhood": "No Address",
@@ -987,11 +1118,13 @@
     "longitude": -114.0309737,
     "phone": "(403) 454-3287",
     "placeID": "ChIJQTHL5bYLcVMRFUwrKWYRjAo",
-    "photo": "https://static1.squarespace.com/static/656fc84fe76c107c57b6f0fd/t/65ab048ae857340af39d75f4/1705706643472/Vegan+Street+Social+Share.png?format=1500w"
+    "photo": "https://static1.squarespace.com/static/656fc84fe76c107c57b6f0fd/t/65ab048ae857340af39d75f4/1705706643472/Vegan+Street+Social+Share.png?format=1500w",
+    "closed": false
   },
   {
     "id": 7756500,
     "name": "The Attic Bar & Stage",
+    "branch": null,
     "deal": "10% off regular priced items. does not include happy hour or daily specials.",
     "category": "Restaurants & Bars",
     "neighbourhood": "No Address",
@@ -1002,11 +1135,13 @@
     "longitude": -114.0309737,
     "phone": "(403) 475-4741",
     "placeID": "ChIJBZOOaLV7cVMRtoOiE0yvToE",
-    "photo": "https://static.wixstatic.com/media/4585cd_6e86d3f2b06b4e01a577c72efa57c82c%7Emv2.png/v1/fit/w_2500,h_1330,al_c/4585cd_6e86d3f2b06b4e01a577c72efa57c82c%7Emv2.png"
+    "photo": "https://static.wixstatic.com/media/4585cd_6e86d3f2b06b4e01a577c72efa57c82c%7Emv2.png/v1/fit/w_2500,h_1330,al_c/4585cd_6e86d3f2b06b4e01a577c72efa57c82c%7Emv2.png",
+    "closed": false
   },
   {
     "id": 7756300,
     "name": "Moonstone Creation",
+    "branch": null,
     "deal": "10% off in store (excluding consignment items)",
     "category": "Apparel & Accessories",
     "neighbourhood": "Inglewood/Ramsay",
@@ -1017,11 +1152,13 @@
     "longitude": -114.0354615,
     "phone": "403-261-2650",
     "placeID": "ChIJDXbfVqV6cVMROrFWMz7xbMk",
-    "photo": null
+    "photo": null,
+    "closed": false
   },
   {
     "id": 7705200,
     "name": "Contemporary Calgary",
+    "branch": null,
     "deal": "2 for 1 admission",
     "category": "Art Galleries & Museums",
     "neighbourhood": "West Village",
@@ -1032,11 +1169,13 @@
     "longitude": -114.0894189,
     "phone": "(403) 710-4849",
     "placeID": "ChIJlStFuGZvcVMRnd3-AT74ALE",
-    "photo": "https://static1.squarespace.com/static/5b087e18aa49a12aeb01e8e4/t/5de56a38cceb6a637f11f0d9/1575316029391/Logo_2019_ContemporaryCalgary_C_K.png?format=1500w"
+    "photo": "https://static1.squarespace.com/static/5b087e18aa49a12aeb01e8e4/t/5de56a38cceb6a637f11f0d9/1575316029391/Logo_2019_ContemporaryCalgary_C_K.png?format=1500w",
+    "closed": false
   },
   {
     "id": 7656200,
     "name": "The Apothecary Inglewood",
+    "branch": null,
     "deal": "5% off in store only (excludes Workshops and Oil of the Month Club)",
     "category": "Hair & Beauty",
     "neighbourhood": "Inglewood/Ramsay",
@@ -1047,11 +1186,13 @@
     "longitude": -114.0400775,
     "phone": "(403) 453-0313",
     "placeID": "ChIJCwECu656cVMRsax_X4AVoIw",
-    "photo": null
+    "photo": null,
+    "closed": false
   },
   {
     "id": 7573700,
     "name": "Ninetimes Skate Shop",
+    "branch": null,
     "deal": "10% off (excluding Nike SB Dunks, items with Hard Release Dates, and certain items from Local Brands)",
     "category": "Sporting Goods & Athletic Wear",
     "neighbourhood": "Beltline",
@@ -1062,11 +1203,13 @@
     "longitude": -114.0892686,
     "phone": "(403) 244-0024",
     "placeID": "ChIJD4ClbN9vcVMRRSek3c2laNQ",
-    "photo": null
+    "photo": null,
+    "closed": false
   },
   {
     "id": 7554100,
     "name": "Aggüdo Coffee Roasters",
+    "branch": null,
     "deal": "10% off menu drinks",
     "category": "Coffee, Tea, & Spice Shops",
     "neighbourhood": "No Address",
@@ -1077,11 +1220,13 @@
     "longitude": -114.0857277,
     "phone": "(403) 829-6857",
     "placeID": "ChIJkQpBDrVxcVMRZpUIBTn12ng",
-    "photo": null
+    "photo": null,
+    "closed": false
   },
   {
     "id": 7519200,
     "name": "Milk Jar Candle Co.",
+    "branch": null,
     "deal": "15% off in-store with card and 10% off online using code CJSWFRIEND10.",
     "category": "Furnishing & Decor",
     "neighbourhood": "No Address",
@@ -1092,11 +1237,13 @@
     "longitude": -113.99269,
     "phone": "(403) 921-9918",
     "placeID": "ChIJPcWGegZlcVMRrjxS07RizMg",
-    "photo": "https://cdn.sanity.io/images/w4a0o3t9/development/5b04a09f8a4e1799f9e0893621cfbd8a77456e96-1200x630.png"
+    "photo": "https://cdn.sanity.io/images/w4a0o3t9/development/5b04a09f8a4e1799f9e0893621cfbd8a77456e96-1200x630.png",
+    "closed": false
   },
   {
     "id": 7505400,
     "name": "Proof Cocktail Bar",
+    "branch": null,
     "deal": "10% off",
     "category": "Restaurants & Bars",
     "neighbourhood": "Beltline",
@@ -1107,11 +1254,13 @@
     "longitude": -114.065542,
     "phone": "(403) 246-2414",
     "placeID": "ChIJc5VXKwNwcVMRAtFZFC2wgdo",
-    "photo": null
+    "photo": null,
+    "closed": false
   },
   {
     "id": 7505300,
-    "name": "Vine Arts Wine and Spirits (1310 1 St SW)",
+    "name": "Vine Arts Wine and Spirits",
+    "branch": "1310 1 St SW",
     "deal": "10% off wine purchases",
     "category": "Liquor Stores",
     "neighbourhood": "Beltline",
@@ -1122,11 +1271,13 @@
     "longitude": -114.0656706,
     "phone": "(403) 290-0700",
     "placeID": "ChIJeTjuyv1vcVMRuobrNhvIZ_I",
-    "photo": "https://cdn.shopify.com/s/files/1/0673/8739/2312/files/social_sharing_image.png?v=1668390128"
+    "photo": "https://cdn.shopify.com/s/files/1/0673/8739/2312/files/social_sharing_image.png?v=1668390128",
+    "closed": false
   },
   {
     "id": 7505301,
-    "name": "Vine Arts Wine and Spirits (932 17 Ave SW #101)",
+    "name": "Vine Arts Wine and Spirits",
+    "branch": "932 17 Ave SW #101",
     "deal": "10% off wine purchases",
     "category": "Liquor Stores",
     "neighbourhood": "Beltline",
@@ -1137,11 +1288,13 @@
     "longitude": -114.0837265,
     "phone": "(403) 454-1106",
     "placeID": "ChIJyYBSRyBwcVMRf8qEUkjBJOM",
-    "photo": "https://cdn.shopify.com/s/files/1/0673/8739/2312/files/social_sharing_image.png?v=1668390128"
+    "photo": "https://cdn.shopify.com/s/files/1/0673/8739/2312/files/social_sharing_image.png?v=1668390128",
+    "closed": false
   },
   {
     "id": 7426200,
     "name": "Market Collective",
+    "branch": null,
     "deal": "2 for 1 Admission",
     "category": "Entertainment & Festivals",
     "neighbourhood": "Downtown",
@@ -1152,11 +1305,13 @@
     "longitude": -114.0907337,
     "phone": "(403) 307-6468",
     "placeID": null,
-    "photo": "https://marketcollective.ca/assets/Uploads/WebPosterWeek1-375x600-01.jpg"
+    "photo": "https://marketcollective.ca/assets/Uploads/WebPosterWeek1-375x600-01.jpg",
+    "closed": false
   },
   {
     "id": 7323300,
     "name": "Heartprint Threads",
+    "branch": null,
     "deal": "10% off, online (CODE: CJSWFRIEND) and In Store. Cannot be used with other discounts.",
     "category": "Furnishing & Decor",
     "neighbourhood": "Manchester Industrial Park/Windsor Park",
@@ -1167,11 +1322,13 @@
     "longitude": -114.0517911,
     "phone": "(403) 970-0853",
     "placeID": "ChIJs7btU-txcVMRMkhjUlqOtHA",
-    "photo": "https://www.heartprintthreads.com/cdn/shop/files/For_FB_Social_Share.png?v=1774374601"
+    "photo": "https://www.heartprintthreads.com/cdn/shop/files/For_FB_Social_Share.png?v=1774374601",
+    "closed": false
   },
   {
     "id": 7308600,
     "name": "Limber Disc Golf & The Limber Hollow Venue",
+    "branch": null,
     "deal": "10% off, in store only",
     "category": "Sporting Goods & Athletic Wear",
     "neighbourhood": "Manchester Industrial Park/Windsor Park",
@@ -1182,11 +1339,13 @@
     "longitude": -114.0518233,
     "phone": "(403) 970-0853",
     "placeID": "ChIJbZxTYVtxcVMRPhFxTklW-hI",
-    "photo": "https://www.limberdiscgolf.com/cdn/shop/files/Social_icon_879b7ed3-748b-494d-a7ba-99108f266497.png?v=1677131499"
+    "photo": "https://www.limberdiscgolf.com/cdn/shop/files/Social_icon_879b7ed3-748b-494d-a7ba-99108f266497.png?v=1677131499",
+    "closed": false
   },
   {
     "id": 7295600,
     "name": "Good News Coffee",
+    "branch": null,
     "deal": "10% off",
     "category": "Coffee, Tea, & Spice Shops",
     "neighbourhood": "Inglewood/Ramsay",
@@ -1197,11 +1356,13 @@
     "longitude": -114.0247267,
     "phone": "(587) 894-3231",
     "placeID": "ChIJ2RqsBix7cVMRX7o4TuAuubQ",
-    "photo": null
+    "photo": null,
+    "closed": false
   },
   {
     "id": 7284400,
-    "name": "Peasant Cheese (1249 Kensington Rd NW)",
+    "name": "Peasant Cheese",
+    "branch": "1249 Kensington Rd NW",
     "deal": "10% off",
     "category": "Drug Stores & Supermarkets",
     "neighbourhood": "Hillhurst/Sunnyside",
@@ -1212,11 +1373,13 @@
     "longitude": -114.0914955,
     "phone": "(587) 353-3599",
     "placeID": "ChIJXXb8r-lvcVMR9our_LjkOsA",
-    "photo": null
+    "photo": null,
+    "closed": false
   },
   {
     "id": 7284401,
-    "name": "Peasant Cheese (2206 4 St SW)",
+    "name": "Peasant Cheese",
+    "branch": "2206 4 St SW",
     "deal": "10% off",
     "category": "Drug Stores & Supermarkets",
     "neighbourhood": "Hillhurst/Sunnyside",
@@ -1227,11 +1390,13 @@
     "longitude": -114.0712679,
     "phone": "(587) 353-1322",
     "placeID": "ChIJX75EPRlxcVMRP-IvfNmgU-o",
-    "photo": null
+    "photo": null,
+    "closed": false
   },
   {
     "id": 7241900,
     "name": "TELUS Spark Science Centre",
+    "branch": null,
     "deal": "Discount: 10% off general admission – Excludes special events and excluded exhibits. Only redeemable in-person at TELUS Spark Science Centre's Front Desk. Cannot be combined with any other offer.",
     "category": "Entertainment & Festivals",
     "neighbourhood": "No Address",
@@ -1242,11 +1407,13 @@
     "longitude": -114.0244504,
     "phone": "(403) 817-6800",
     "placeID": "ChIJQ94Uu0plcVMRus1ooc0XHrs",
-    "photo": "https://images.prismic.io/telusspark/df3da90f-8518-4aa2-860d-ec3e296e7ede_TELUS+SPARK_Building.jpg?auto=compress,format&amp;rect=0,126,2808,1474&amp;w=1200&amp;h=630"
+    "photo": "https://images.prismic.io/telusspark/df3da90f-8518-4aa2-860d-ec3e296e7ede_TELUS+SPARK_Building.jpg?auto=compress,format&amp;rect=0,126,2808,1474&amp;w=1200&amp;h=630",
+    "closed": false
   },
   {
     "id": 7241800,
-    "name": "Oolong Tea House (110 10 St NW)",
+    "name": "Oolong Tea House",
+    "branch": "110 10 St NW",
     "deal": "10% off (excluding liquor & consignment items)",
     "category": "Coffee, Tea, & Spice Shops",
     "neighbourhood": "Hillhurst/Sunnyside",
@@ -1257,11 +1424,13 @@
     "longitude": -114.0856781,
     "phone": "4034575450",
     "placeID": "ChIJKYDa0uhvcVMR0i9nwu5z1OA",
-    "photo": null
+    "photo": null,
+    "closed": false
   },
   {
     "id": 7241801,
-    "name": "Oolong Tea House (1219A 9 Ave SE)",
+    "name": "Oolong Tea House",
+    "branch": "1219A 9 Ave SE",
     "deal": "10% off (excluding liquor & consignment items)",
     "category": "Coffee, Tea, & Spice Shops",
     "neighbourhood": "Hillhurst/Sunnyside",
@@ -1272,11 +1441,13 @@
     "longitude": -114.035557,
     "phone": null,
     "placeID": "ChIJ7aEyM5l7cVMRisFHZkoih8g",
-    "photo": null
+    "photo": null,
+    "closed": false
   },
   {
     "id": 7233600,
     "name": "Sunnyside Natural Market",
+    "branch": null,
     "deal": "5% off",
     "category": "Drug Stores & Supermarkets",
     "neighbourhood": "Hillhurst/Sunnyside",
@@ -1287,11 +1458,13 @@
     "longitude": -114.0859644,
     "phone": "(403) 270-7477",
     "placeID": "ChIJETmmm-5vcVMRH397UCf4-p0",
-    "photo": null
+    "photo": null,
+    "closed": false
   },
   {
     "id": 7193500,
     "name": "Twinbat Sticker Co.",
+    "branch": null,
     "deal": "10% off Stickers only",
     "category": "Cards, Stationary & Gifts",
     "neighbourhood": "No Address",
@@ -1302,11 +1475,13 @@
     "longitude": -113.9740334,
     "phone": "(403) 797-3784",
     "placeID": null,
-    "photo": null
+    "photo": null,
+    "closed": false
   },
   {
     "id": 7192400,
-    "name": "Hearts Choices (4127 6 St NE #9)",
+    "name": "Hearts Choices",
+    "branch": "4127 6 St NE #9",
     "deal": "10% off meals, retail excluded",
     "category": "Restaurants & Bars",
     "neighbourhood": "No Address",
@@ -1317,11 +1492,13 @@
     "longitude": -114.0491199,
     "phone": "(403) 276-2163",
     "placeID": "ChIJlbmyLwplcVMRZ0o26uUI-HA",
-    "photo": "https://static.spotapps.co/website_images/ab_websites/476344_website_v1/shared_image.jpg"
+    "photo": "https://static.spotapps.co/website_images/ab_websites/476344_website_v1/shared_image.jpg",
+    "closed": false
   },
   {
     "id": 7192401,
-    "name": "Hearts Choices (25 Greenbriar Dr NW)",
+    "name": "Hearts Choices",
+    "branch": "25 Greenbriar Dr NW",
     "deal": "10% off meals, retail excluded",
     "category": "Restaurants & Bars",
     "neighbourhood": "No Address",
@@ -1332,11 +1509,13 @@
     "longitude": -114.2228714,
     "phone": null,
     "placeID": "ChIJ59qvvY5vcVMRhiqYqoQ1tM4",
-    "photo": "https://static.spotapps.co/website_images/ab_websites/476344_website_v1/shared_image.jpg"
+    "photo": "https://static.spotapps.co/website_images/ab_websites/476344_website_v1/shared_image.jpg",
+    "closed": false
   },
   {
     "id": 7192402,
-    "name": "Hearts Choices (510 77 Ave SE)",
+    "name": "Hearts Choices",
+    "branch": "510 77 Ave SE",
     "deal": "10% off meals, retail excluded",
     "category": "Restaurants & Bars",
     "neighbourhood": "No Address",
@@ -1347,11 +1526,13 @@
     "longitude": -114.0519997,
     "phone": null,
     "placeID": "ChIJEQN3zgh0cVMRmgLZCiDn44w",
-    "photo": "https://static.spotapps.co/website_images/ab_websites/476344_website_v1/shared_image.jpg"
+    "photo": "https://static.spotapps.co/website_images/ab_websites/476344_website_v1/shared_image.jpg",
+    "closed": false
   },
   {
     "id": 7192300,
     "name": "Yoga Sarana YYC",
+    "branch": null,
     "deal": "10% off",
     "category": "Health & Wellness",
     "neighbourhood": "No Address",
@@ -1362,11 +1543,13 @@
     "longitude": -114.0541161,
     "phone": "(403) 228-5808",
     "placeID": "ChIJedw25thvcVMRQPw1TDIKaDM",
-    "photo": "https://img1.wsimg.com/isteam/ip/4ec7084b-b39b-4a86-bcc4-b689da853c4d/vira1Mel-4a117a9.JPG"
+    "photo": "https://img1.wsimg.com/isteam/ip/4ec7084b-b39b-4a86-bcc4-b689da853c4d/vira1Mel-4a117a9.JPG",
+    "closed": false
   },
   {
     "id": 7192000,
-    "name": "Actually Pretty Good Pizza (2509 14 St SW)",
+    "name": "Actually Pretty Good Pizza",
+    "branch": "2509 14 St SW",
     "deal": "10% off dine in only",
     "category": "Restaurants & Bars",
     "neighbourhood": "Bankview/Marda Loop",
@@ -1377,11 +1560,13 @@
     "longitude": -114.0951492,
     "phone": "(403) 973-7780",
     "placeID": "ChIJm6JUlYBxcVMRL1GzFcldSrY",
-    "photo": "https://static1.squarespace.com/static/666a1186ad26364384913cb5/t/666a118fad26364384913e46/1715033723251/LOGO+%282%29.png?format=1500w"
+    "photo": "https://static1.squarespace.com/static/666a1186ad26364384913cb5/t/666a118fad26364384913e46/1715033723251/LOGO+%282%29.png?format=1500w",
+    "closed": false
   },
   {
     "id": 7192001,
-    "name": "Actually Pretty Good Pizza (1327 1 St SW)",
+    "name": "Actually Pretty Good Pizza",
+    "branch": "1327 1 St SW",
     "deal": "10% off dine in only",
     "category": "Restaurants & Bars",
     "neighbourhood": "Bankview/Marda Loop",
@@ -1392,11 +1577,13 @@
     "longitude": -114.066251,
     "phone": null,
     "placeID": "ChIJm6JUlYBxcVMRL1GzFcldSrY",
-    "photo": "https://static1.squarespace.com/static/666a1186ad26364384913cb5/t/666a118fad26364384913e46/1715033723251/LOGO+%282%29.png?format=1500w"
+    "photo": "https://static1.squarespace.com/static/666a1186ad26364384913cb5/t/666a118fad26364384913e46/1715033723251/LOGO+%282%29.png?format=1500w",
+    "closed": false
   },
   {
     "id": 7122500,
     "name": "Prairie Bazaar",
+    "branch": null,
     "deal": "20% off. Valid on Prairie Bazaar vintage items.",
     "category": "Apparel & Accessories",
     "neighbourhood": "No Address",
@@ -1407,11 +1594,13 @@
     "longitude": -114.0622247,
     "phone": "(403) 860-4372",
     "placeID": "ChIJM2NSDK9lcVMRnWWjr4y5wsM",
-    "photo": null
+    "photo": null,
+    "closed": false
   },
   {
     "id": 7115700,
     "name": "LoopHole Coffee Bar",
+    "branch": null,
     "deal": "10% off",
     "category": "Coffee, Tea, & Spice Shops",
     "neighbourhood": "No Address",
@@ -1422,11 +1611,13 @@
     "longitude": -114.0858837,
     "phone": "(403) 667-9940",
     "placeID": "ChIJlavuV0lvcVMROyXf3h_yDZI",
-    "photo": null
+    "photo": null,
+    "closed": false
   },
   {
     "id": 7115100,
     "name": "Burnt Toast Studio",
+    "branch": null,
     "deal": "10% off (Valid for Prints)",
     "category": "Furnishing & Decor",
     "neighbourhood": "No Address",
@@ -1437,11 +1628,13 @@
     "longitude": -114.058438,
     "phone": "(403) 922-4296",
     "placeID": "ChIJNUbGZHRlcVMRHYQi8tti-UA",
-    "photo": "https://static1.squarespace.com/static/6215b91a0f13db17e0d9a576/t/697a468df8c4e404ff963314/1769621133088/BTS_Logo_Main_White_web.png?format=1500w"
+    "photo": "https://static1.squarespace.com/static/6215b91a0f13db17e0d9a576/t/697a468df8c4e404ff963314/1769621133088/BTS_Logo_Main_White_web.png?format=1500w",
+    "closed": false
   },
   {
     "id": 6124100,
     "name": "FUSE33 Makerspace",
+    "branch": null,
     "deal": "10% off all class registrations (not valid on memberships)",
     "category": "Toys & Hobbies",
     "neighbourhood": "International Avenue",
@@ -1452,11 +1645,13 @@
     "longitude": -113.986133,
     "phone": "(403) 990-2923",
     "placeID": "ChIJ-UbiXed6cVMRFHfCKaRevVM",
-    "photo": "https://www.fuse33.com/wp-content/uploads/2021/07/494_02474.jpg"
+    "photo": "https://www.fuse33.com/wp-content/uploads/2021/07/494_02474.jpg",
+    "closed": false
   },
   {
     "id": 6052600,
-    "name": "I Love You Coffee Shop (348b 14 Avenue SW)",
+    "name": "I Love You Coffee Shop",
+    "branch": "348b 14 Avenue SW",
     "deal": "10% off (excluding liquor, merch, and market items)",
     "category": "Coffee, Tea, & Spice Shops",
     "neighbourhood": "Beltline",
@@ -1467,11 +1662,13 @@
     "longitude": -114.0712772,
     "phone": "1 (403) 454-1901",
     "placeID": "ChIJTYAN2XlxcVMRPyF0qp835R8",
-    "photo": null
+    "photo": null,
+    "closed": false
   },
   {
     "id": 6052601,
-    "name": "I Love You Coffee Shop (520b 12 Ave SW)",
+    "name": "I Love You Coffee Shop",
+    "branch": "520b 12 Ave SW",
     "deal": "10% off (excluding liquor, merch, and market items)",
     "category": "Coffee, Tea, & Spice Shops",
     "neighbourhood": "Beltline",
@@ -1482,11 +1679,13 @@
     "longitude": -114.0725843,
     "phone": "1 (403) 454-1901",
     "placeID": "ChIJYXLGo09xcVMR5XJ4VvhStvo",
-    "photo": null
+    "photo": null,
+    "closed": false
   },
   {
     "id": 6051300,
     "name": "Uncommon Cider",
+    "branch": null,
     "deal": "10% off (excluding merch)",
     "category": "Breweries & Distilleries",
     "neighbourhood": "Manchester Industrial Park/Windsor Park",
@@ -1497,11 +1696,13 @@
     "longitude": -114.0596428,
     "phone": "(403) 401-3306",
     "placeID": "ChIJrxYaLNBxcVMR4d1gP5em9Ys",
-    "photo": null
+    "photo": null,
+    "closed": false
   },
   {
     "id": 6051100,
     "name": "stuff. for living. inc.",
+    "branch": null,
     "deal": "15% off all regularly priced merchandise (excluding local artists consignment pieces)",
     "category": "Apparel & Accessories",
     "neighbourhood": "Beltline",
@@ -1512,11 +1713,13 @@
     "longitude": -114.0772139,
     "phone": "(403) 209-2606",
     "placeID": "ChIJSwScjOFvcVMRsyxLczb1E8M",
-    "photo": "https://static1.squarespace.com/static/640f907074519b20f5411252/t/640fd29529fabc6d27b24379/1678758549196/stuff_logo.png?format=1500w"
+    "photo": "https://static1.squarespace.com/static/640f907074519b20f5411252/t/640fd29529fabc6d27b24379/1678758549196/stuff_logo.png?format=1500w",
+    "closed": false
   },
   {
     "id": 6051000,
     "name": "Recess",
+    "branch": null,
     "deal": "10% off regular priced products",
     "category": "Art Supplies",
     "neighbourhood": "Inglewood/Ramsay",
@@ -1527,11 +1730,13 @@
     "longitude": -114.0324856,
     "phone": "(587) 433-4226",
     "placeID": "ChIJAbfVk696cVMRJK0bR_ORKkQ",
-    "photo": "https://recessshop.myshopify.com/cdn/shop/files/IMG_4214_a6b671ea-916a-40cc-ae8f-d24e1e6a7d30.jpg?v=1686689489"
+    "photo": "https://recessshop.myshopify.com/cdn/shop/files/IMG_4214_a6b671ea-916a-40cc-ae8f-d24e1e6a7d30.jpg?v=1686689489",
+    "closed": false
   },
   {
     "id": 6050900,
     "name": "PB and J YYC",
+    "branch": null,
     "deal": "10% off",
     "category": "Restaurants & Bars",
     "neighbourhood": "Hillhurst/Sunnyside",
@@ -1542,11 +1747,13 @@
     "longitude": -114.0884876,
     "phone": "(403) 708-5725",
     "placeID": "ChIJQ3HMRzNvcVMRioH4wkpmZF4",
-    "photo": "https://www.pbandjyyc.ca/uploads/b/17a70960-6ae4-11ea-99eb-8d2ad8af126b/front%20page%201.JPG"
+    "photo": "https://www.pbandjyyc.ca/uploads/b/17a70960-6ae4-11ea-99eb-8d2ad8af126b/front%20page%201.JPG",
+    "closed": false
   },
   {
     "id": 6050300,
     "name": "Hot Wax Records",
+    "branch": null,
     "deal": "10% off (excluding local releases, sales items, and Record Store Day releases)",
     "category": "Music & Video",
     "neighbourhood": "Hillhurst/Sunnyside",
@@ -1557,11 +1764,13 @@
     "longitude": -114.0857534,
     "phone": "(403) 283-0055",
     "placeID": "ChIJSxjWLO9vcVMRglYyCqB8qVI",
-    "photo": null
+    "photo": null,
+    "closed": false
   },
   {
     "id": 6049900,
     "name": "Euphoria Cafe",
+    "branch": null,
     "deal": "10% off",
     "category": "Coffee, Tea, & Spice Shops",
     "neighbourhood": "Dalhousie/Varsity Estates",
@@ -1572,11 +1781,13 @@
     "longitude": -114.1636592,
     "phone": "(403) 313-0503",
     "placeID": "ChIJmcwbRC5vcVMRmhNboXFgpgM",
-    "photo": "https://www.myeuphoria.coffee/uploads/b/ea04f4e0-ceb6-11ee-b157-8df8cfbeb4d3/IMG_2479.jpeg"
+    "photo": "https://www.myeuphoria.coffee/uploads/b/ea04f4e0-ceb6-11ee-b157-8df8cfbeb4d3/IMG_2479.jpeg",
+    "closed": false
   },
   {
     "id": 6049800,
     "name": "Eighty-Eight Brewing Co.",
+    "branch": null,
     "deal": "10% off",
     "category": "Breweries & Distilleries",
     "neighbourhood": "Inglewood/Ramsay",
@@ -1587,11 +1798,13 @@
     "longitude": -114.0309189,
     "phone": "(403) 452-5880",
     "placeID": "ChIJV1IIKNV7cVMRtde-j4kXbw8",
-    "photo": "https://www.eightyeightbrewing.ca/cdn/shop/files/88_BREWERY_MB_11.jpg?v=1631293590&width=1000"
+    "photo": "https://www.eightyeightbrewing.ca/cdn/shop/files/88_BREWERY_MB_11.jpg?v=1631293590&width=1000",
+    "closed": false
   },
   {
     "id": 6049700,
     "name": "The Dandy Brewing Company",
+    "branch": null,
     "deal": "10% off (excluding sales items and promos)",
     "category": "Breweries & Distilleries",
     "neighbourhood": "Inglewood/Ramsay",
@@ -1602,11 +1815,13 @@
     "longitude": -114.0371571,
     "phone": "(587) 956-8836",
     "placeID": "ChIJs7irvSFlcVMRQ6Gu04hvACw",
-    "photo": "https://static1.squarespace.com/static/56980638bfe873ec75c4382f/t/66cd1796402c4b1412cd770d/1724716950412/Dandy_Brewing_Logo.png?format=1500w"
+    "photo": "https://static1.squarespace.com/static/56980638bfe873ec75c4382f/t/66cd1796402c4b1412cd770d/1724716950412/Dandy_Brewing_Logo.png?format=1500w",
+    "closed": false
   },
   {
     "id": 6049100,
     "name": "Calgary International Film Festival – CIFF",
+    "branch": null,
     "deal": "$2 off",
     "category": "Entertainment & Festivals",
     "neighbourhood": "Beltline",
@@ -1617,11 +1832,13 @@
     "longitude": -114.0819514,
     "phone": "(587) 393-3730",
     "placeID": "ChIJicSu0wZvcVMRnzImnyDvHcY",
-    "photo": "https://www.ciffcalgary.ca/assets/8825844311/1_CIFF2019_Day9THUR.27.jpg"
+    "photo": "https://www.ciffcalgary.ca/assets/8825844311/1_CIFF2019_Day9THUR.27.jpg",
+    "closed": false
   },
   {
     "id": 6048900,
     "name": "Calgary Cinematheque Society",
+    "branch": null,
     "deal": "2 for 1 General Admission to Regular screenings",
     "category": "Entertainment & Festivals",
     "neighbourhood": "Beltline",
@@ -1632,11 +1849,13 @@
     "longitude": -114.0672363,
     "phone": "(403) 968-7515",
     "placeID": null,
-    "photo": null
+    "photo": null,
+    "closed": false
   },
   {
     "id": 6042900,
     "name": "Calcutta Cricket Club",
+    "branch": null,
     "deal": "10% off regular priced items",
     "category": "Restaurants & Bars",
     "neighbourhood": "17th Avenue SW",
@@ -1647,11 +1866,13 @@
     "longitude": -114.0661607,
     "phone": "(403) 719-1555",
     "placeID": "ChIJbXH5ExxwcVMR_I-FqUMNGis",
-    "photo": "https://static1.squarespace.com/static/58c59074a5790aa56a94b39b/t/595d716f4f14bcbcd4ef2877/1639683247081/ccc_pink.png?format=1500w"
+    "photo": "https://static1.squarespace.com/static/58c59074a5790aa56a94b39b/t/595d716f4f14bcbcd4ef2877/1639683247081/ccc_pink.png?format=1500w",
+    "closed": false
   },
   {
     "id": 6042600,
     "name": "Avenue Music",
+    "branch": null,
     "deal": "10% off lessons",
     "category": "Music Lessons",
     "neighbourhood": "Bankview/Marda Loop",
@@ -1662,11 +1883,13 @@
     "longitude": -114.1002739,
     "phone": "(403) 454-0681",
     "placeID": "ChIJxy0ZiLlvcVMRi3UbMhYCJQE",
-    "photo": "https://avenuemusic.ca/wp-content/uploads/2024/03/DSC0510-scaled.jpg"
+    "photo": "https://avenuemusic.ca/wp-content/uploads/2024/03/DSC0510-scaled.jpg",
+    "closed": false
   },
   {
     "id": 6042500,
     "name": "Annex Ale Project",
+    "branch": null,
     "deal": "10% off",
     "category": "Breweries & Distilleries",
     "neighbourhood": "Manchester Industrial Park/Windsor Park",
@@ -1677,11 +1900,13 @@
     "longitude": -114.0620555,
     "phone": "(403) 475-4412",
     "placeID": "ChIJLVfhZUJwcVMR_ggzfQLrtUI",
-    "photo": "https://static1.squarespace.com/static/639827fb1ea7ce6ed93e62a7/t/6823bed3b65f46735b39bfc1/1747173075159/Annex-Logo%402x.png?format=1500w"
+    "photo": "https://static1.squarespace.com/static/639827fb1ea7ce6ed93e62a7/t/6823bed3b65f46735b39bfc1/1747173075159/Annex-Logo%402x.png?format=1500w",
+    "closed": false
   },
   {
     "id": 5488600,
     "name": "The Next Page",
+    "branch": null,
     "deal": "10% off",
     "category": "Books & News",
     "neighbourhood": "Inglewood/Ramsay",
@@ -1692,11 +1917,13 @@
     "longitude": -114.03576750000002,
     "phone": "(403) 452-6550",
     "placeID": "ChIJhefQwp97cVMR27ff-hp8TDk",
-    "photo": "https://cdn1.bookmanager.com/i/8100845//White_nextpage_logo__clear_background.png?mtime=1744908111"
+    "photo": "https://cdn1.bookmanager.com/i/8100845//White_nextpage_logo__clear_background.png?mtime=1744908111",
+    "closed": false
   },
   {
     "id": 5457000,
     "name": "The Establishment Brewing Company",
+    "branch": null,
     "deal": "10% off on merchandise and beer to stay",
     "category": "Breweries & Distilleries",
     "neighbourhood": "Manchester Industrial Park/Windsor Park",
@@ -1707,11 +1934,13 @@
     "longitude": -114.06234699999999,
     "phone": "(403) 453-6212",
     "placeID": "ChIJM3SZb2lxcVMRYL7eItCUiB0",
-    "photo": "https://static1.squarespace.com/static/5b4d5c1829711496f9f52d76/t/6151ed76fa38932650e3aa85/1740513401833/PC_+Curiocity+Calgary+1.jpg?format=1500w"
+    "photo": "https://static1.squarespace.com/static/5b4d5c1829711496f9f52d76/t/6151ed76fa38932650e3aa85/1740513401833/PC_+Curiocity+Calgary+1.jpg?format=1500w",
+    "closed": false
   },
   {
     "id": 5448400,
     "name": "The Cookbook Co. Cooks",
+    "branch": null,
     "deal": "10% off (Does not apply to Culinary Escapes)",
     "category": "Books & News",
     "neighbourhood": "Electric Avenue",
@@ -1722,11 +1951,13 @@
     "longitude": -114.077989,
     "phone": "(403) 265-6066",
     "placeID": "ChIJM3O3j-FvcVMRXuiSId7N4zw",
-    "photo": "https://static1.squarespace.com/static/591d23336a4963af2d757407/t/591d2411414fb55fb1c7c2c6/1495082002457/Logo_CBCC_White_KO.png?format=1500w"
+    "photo": "https://static1.squarespace.com/static/591d23336a4963af2d757407/t/591d2411414fb55fb1c7c2c6/1495082002457/Logo_CBCC_White_KO.png?format=1500w",
+    "closed": false
   },
   {
     "id": 5448300,
     "name": "Ship & Anchor Pub",
+    "branch": null,
     "deal": "10% off (excluding food and happy hour)",
     "category": "Restaurants & Bars",
     "neighbourhood": "17th Avenue SW",
@@ -1737,11 +1968,13 @@
     "longitude": -114.07372399999997,
     "phone": "(403) 245-3333",
     "placeID": "ChIJqfx9XVFocVMRYgRdkQ__hP8",
-    "photo": null
+    "photo": null,
+    "closed": false
   },
   {
     "id": 5448100,
     "name": "Metrovino Fine Wines",
+    "branch": null,
     "deal": "10% off Beer, Spirits, Accessories, Events",
     "category": "Liquor Stores",
     "neighbourhood": "Beltline",
@@ -1752,11 +1985,13 @@
     "longitude": -114.077989,
     "phone": "(403) 205-3356",
     "placeID": "ChIJM3O3j-FvcVMRXa0HnxmTvmw",
-    "photo": "https://static1.squarespace.com/static/559b4a33e4b07200572e43a0/t/6a146f464932b71329702789/1779724102076/30AnniWhiteLogo.png?format=1500w"
+    "photo": "https://static1.squarespace.com/static/559b4a33e4b07200572e43a0/t/6a146f464932b71329702789/1779724102076/30AnniWhiteLogo.png?format=1500w",
+    "closed": false
   },
   {
     "id": 5447900,
     "name": "Canary Refillery & Zero Waste Market",
+    "branch": null,
     "deal": "10 % off",
     "category": "Drug Stores & Supermarkets",
     "neighbourhood": "Hillhurst/Sunnyside",
@@ -1767,11 +2002,13 @@
     "longitude": -114.0870126,
     "phone": "(403) 804-6404",
     "placeID": "ChIJpy_G61JvcVMRatwOXKKUqc0",
-    "photo": "https://canarygoods.ca/cdn/shop/files/Canary_-_Shopify_Site_Social_Share.jpg?v=1739989555"
+    "photo": "https://canarygoods.ca/cdn/shop/files/Canary_-_Shopify_Site_Social_Share.jpg?v=1739989555",
+    "closed": false
   },
   {
     "id": 5032700,
     "name": "Cabin Brewing Company",
+    "branch": null,
     "deal": "10% off",
     "category": "Breweries & Distilleries",
     "neighbourhood": "Manchester Industrial Park/Windsor Park",
@@ -1782,11 +2019,13 @@
     "longitude": -114.05357579999998,
     "phone": "403-244-3331",
     "placeID": "ChIJr0Pnjh5xcVMRRziIgLSUyXA",
-    "photo": "https://static1.squarespace.com/static/5a5590fc0abd0444cba48ff0/t/5ae7f817575d1f30835632de/1525151772685/CAB-002+Postcards-1+Rainbow.jpg?format=1500w"
+    "photo": "https://static1.squarespace.com/static/5a5590fc0abd0444cba48ff0/t/5ae7f817575d1f30835632de/1525151772685/CAB-002+Postcards-1+Rainbow.jpg?format=1500w",
+    "closed": false
   },
   {
     "id": 4932500,
     "name": "Confluence Distilling",
+    "branch": null,
     "deal": "15% off, online code \"CJSW15LUV\"",
     "category": "Breweries & Distilleries",
     "neighbourhood": "Manchester Industrial Park/Windsor Park",
@@ -1797,11 +2036,13 @@
     "longitude": -114.0534647,
     "phone": "(587) 707-3072",
     "placeID": "ChIJQ89_zO9xcVMRmttciMxkhF0",
-    "photo": "https://confluencedistilling.ca/cdn/shop/files/Group-shot-003.jpg?v=1706225773"
+    "photo": "https://confluencedistilling.ca/cdn/shop/files/Group-shot-003.jpg?v=1706225773",
+    "closed": false
   },
   {
     "id": 4871200,
     "name": "Ol’ Beautiful Brewing Co.",
+    "branch": null,
     "deal": "10% off growler fills",
     "category": "Breweries & Distilleries",
     "neighbourhood": "Inglewood/Ramsay",
@@ -1812,11 +2053,13 @@
     "longitude": -114.036338,
     "phone": "(403) 918-6616",
     "placeID": "ChIJr9HXCAl7cVMR3udw-i9FBU4",
-    "photo": "https://static1.squarespace.com/static/5dd42f5be07ae62bb541453c/t/5de54c7e5be57103516085be/1575308417617/OLB_Insta+Launch_5.jpg?format=1500w"
+    "photo": "https://static1.squarespace.com/static/5dd42f5be07ae62bb541453c/t/5de54c7e5be57103516085be/1575308417617/OLB_Insta+Launch_5.jpg?format=1500w",
+    "closed": false
   },
   {
     "id": 4796100,
     "name": "Alberta Theatre Projects",
+    "branch": null,
     "deal": "15% off any Tuesday, Wednesday or Thursday performance in 24-25 season",
     "category": "Entertainment & Festivals",
     "neighbourhood": "Downtown",
@@ -1827,11 +2070,13 @@
     "longitude": -114.0585143,
     "phone": "403-294-7402",
     "placeID": "ChIJpRvq5wFwcVMRz3IaNSqZdv0",
-    "photo": null
+    "photo": null,
+    "closed": false
   },
   {
     "id": 4709600,
     "name": "Village Brewery",
+    "branch": null,
     "deal": "20% off, Good for taproom pints, brewery retail store and all Village merch.",
     "category": "Breweries & Distilleries",
     "neighbourhood": "Manchester Industrial Park/Windsor Park",
@@ -1842,11 +2087,13 @@
     "longitude": -114.03480000000002,
     "phone": "(403) 243-3327",
     "placeID": "ChIJNb8j5nxwcVMR_4QFKWqXSHs",
-    "photo": null
+    "photo": null,
+    "closed": false
   },
   {
     "id": 4705300,
-    "name": "Una Pizza + Wine (8529 Broadcast Ave SW)",
+    "name": "Una Pizza + Wine",
+    "branch": "8529 Broadcast Ave SW",
     "deal": "10% off, dine-in only",
     "category": "Restaurants & Bars",
     "neighbourhood": "17th Avenue SW",
@@ -1857,11 +2104,13 @@
     "longitude": -114.210235,
     "phone": "(403) 453-1183",
     "placeID": "ChIJF7_V2lNvcVMR3x8Ax4MVTdg",
-    "photo": null
+    "photo": null,
+    "closed": false
   },
   {
     "id": 4705301,
-    "name": "Una Pizza + Wine (#110 69 7a St NE)",
+    "name": "Una Pizza + Wine",
+    "branch": "#110 69 7a St NE",
     "deal": "10% off, dine-in only",
     "category": "Restaurants & Bars",
     "neighbourhood": "17th Avenue SW",
@@ -1872,11 +2121,13 @@
     "longitude": -114.0446887,
     "phone": "(403) 453-1183",
     "placeID": "ChIJIdmVNj1lcVMRTg1W42KvCcs",
-    "photo": null
+    "photo": null,
+    "closed": false
   },
   {
     "id": 4705302,
-    "name": "Una Pizza + Wine (4034 University Ave NW)",
+    "name": "Una Pizza + Wine",
+    "branch": "4034 University Ave NW",
     "deal": "10% off, dine-in only",
     "category": "Restaurants & Bars",
     "neighbourhood": "17th Avenue SW",
@@ -1887,11 +2138,13 @@
     "longitude": -114.1457402,
     "phone": "(403) 453-1183",
     "placeID": "ChIJcY-shgNvcVMRe4McEJ2g8LA",
-    "photo": null
+    "photo": null,
+    "closed": false
   },
   {
     "id": 4705303,
-    "name": "Una Pizza + Wine (10816 Macleod Trl #408)",
+    "name": "Una Pizza + Wine",
+    "branch": "10816 Macleod Trl #408",
     "deal": "10% off, dine-in only",
     "category": "Restaurants & Bars",
     "neighbourhood": "17th Avenue SW",
@@ -1902,11 +2155,13 @@
     "longitude": -114.0692067,
     "phone": null,
     "placeID": "ChIJu1gdaatxcVMRk6JB-A5U1CM",
-    "photo": null
+    "photo": null,
+    "closed": false
   },
   {
     "id": 4705304,
-    "name": "Una Pizza + Wine (618 17 Ave SW)",
+    "name": "Una Pizza + Wine",
+    "branch": "618 17 Ave SW",
     "deal": "10% off, dine-in only",
     "category": "Restaurants & Bars",
     "neighbourhood": "17th Avenue SW",
@@ -1917,11 +2172,13 @@
     "longitude": -114.0754814,
     "phone": null,
     "placeID": "ChIJv91G7h5wcVMRoEYWKcvi9Iw",
-    "photo": null
+    "photo": null,
+    "closed": false
   },
   {
     "id": 4702200,
     "name": "Tool Shed Brewing Company",
+    "branch": null,
     "deal": "$6 20 oz pints and 10% off merchandise",
     "category": "Breweries & Distilleries",
     "neighbourhood": "Mayland Heights/Meridian",
@@ -1932,11 +2189,13 @@
     "longitude": -113.99016419999998,
     "phone": "403-775-1749",
     "placeID": "ChIJwYAR1yp7cVMRNzeLBiI6pl0",
-    "photo": "https://static.spotapps.co/website_images/ab_websites/370594_website_v1/social_share.jpg"
+    "photo": "https://static.spotapps.co/website_images/ab_websites/370594_website_v1/social_share.jpg",
+    "closed": false
   },
   {
     "id": 4695400,
     "name": "Studio Bell",
+    "branch": null,
     "deal": "20% off Studio Bell admission only, this discount does not apply to tours, concerts or any other ticketed programming.",
     "category": "Art Galleries & Museums",
     "neighbourhood": "East Village",
@@ -1947,11 +2206,13 @@
     "longitude": -114.0525973,
     "phone": "(403) 543-5115",
     "placeID": "ChIJO9RPhqp6cVMRDtLkeZR5CXY",
-    "photo": "https://www.studiobell.ca/assets/images/_1200x630_crop_center-center_none/StudioBell_crBittermannPhotography-LR-1.jpg"
+    "photo": "https://www.studiobell.ca/assets/images/_1200x630_crop_center-center_none/StudioBell_crBittermannPhotography-LR-1.jpg",
+    "closed": false
   },
   {
     "id": 4690700,
     "name": "PinBar/Bastion Burger",
+    "branch": null,
     "deal": "25% off on Saturday and Sunday before 6pm",
     "category": "Restaurants & Bars",
     "neighbourhood": "17th Avenue SW",
@@ -1962,11 +2223,13 @@
     "longitude": -114.07171619999997,
     "phone": "(403) 930-8175",
     "placeID": "ChIJV5almi97cVMRSgP0qcQefQo",
-    "photo": "https://static.spotapps.co/website_images/ab_websites/408752_website_v1/share_image.jpg"
+    "photo": "https://static.spotapps.co/website_images/ab_websites/408752_website_v1/share_image.jpg",
+    "closed": false
   },
   {
     "id": 4683700,
     "name": "The Eden",
+    "branch": null,
     "deal": "15% off (Discount can not be applied to existing promotions).",
     "category": "Restaurants & Bars",
     "neighbourhood": "Inglewood/Ramsay",
@@ -1977,11 +2240,13 @@
     "longitude": -114.03555699999998,
     "phone": "403 266 1005",
     "placeID": "ChIJe-kxqq96cVMROYrOM8LiU6E",
-    "photo": "https://static1.squarespace.com/static/67230db22d4a6e688a63697a/t/672310b30d1cfa0076bdc7b5/1730351283730/Blk_Eden_Logo.png?format=1500w"
+    "photo": "https://static1.squarespace.com/static/67230db22d4a6e688a63697a/t/672310b30d1cfa0076bdc7b5/1730351283730/Blk_Eden_Logo.png?format=1500w",
+    "closed": false
   },
   {
     "id": 4682300,
     "name": "Blindman Brewing",
+    "branch": null,
     "deal": "10% off",
     "category": "Breweries & Distilleries",
     "neighbourhood": "Lacombe",
@@ -1992,11 +2257,13 @@
     "longitude": -113.7045,
     "phone": "(403) 786-2337",
     "placeID": "ChIJX_vC_XYEdVMRiyr_NkbL8OQ",
-    "photo": "https://www.blindmanbrewing.com/wp-content/uploads/2018/06/Blindman-Logo_125px.png"
+    "photo": "https://www.blindmanbrewing.com/wp-content/uploads/2018/06/Blindman-Logo_125px.png",
+    "closed": false
   },
   {
     "id": 4681700,
     "name": "Alumni Sandwich & Liquor Bar",
+    "branch": null,
     "deal": "10% off dine-in only",
     "category": "Restaurants & Bars",
     "neighbourhood": "17th Avenue SW",
@@ -2007,11 +2274,13 @@
     "longitude": -114.0787684,
     "phone": "403-455-7255",
     "placeID": "ChIJJa7uGytxcVMRZFKjUBmBWVo",
-    "photo": "https://static1.squarespace.com/static/5a62cc5aace8649fd1f5c725/t/5ad133100e2e7224defeb23b/1523659543467/Transparent+Blue.png?format=1500w"
+    "photo": "https://static1.squarespace.com/static/5a62cc5aace8649fd1f5c725/t/5ad133100e2e7224defeb23b/1523659543467/Transparent+Blue.png?format=1500w",
+    "closed": false
   },
   {
     "id": 4535000,
     "name": "GOAT",
+    "branch": null,
     "deal": "10% off all hair services",
     "category": "Hair & Beauty",
     "neighbourhood": "Beltline",
@@ -2022,11 +2291,13 @@
     "longitude": -114.0771738,
     "phone": "403 407 1222",
     "placeID": "ChIJ81BfiOFvcVMRKD1jtbuD5Vo",
-    "photo": "https://goatshop.ca/cdn/shop/files/Goat_BrandBoardV1_Page_22.jpg?v=1731280561"
+    "photo": "https://goatshop.ca/cdn/shop/files/Goat_BrandBoardV1_Page_22.jpg?v=1731280561",
+    "closed": false
   },
   {
     "id": 4413200,
     "name": "Bike and Brew",
+    "branch": null,
     "deal": "10% off café and clothing & accessories",
     "category": "Sporting Goods & Athletic Wear",
     "neighbourhood": "Crescent Heights/Bridgeland",
@@ -2037,11 +2308,13 @@
     "longitude": -114.0424208,
     "phone": "(587) 356-2739",
     "placeID": "ChIJIfKHCVJlcVMREvONup2ncJk",
-    "photo": "https://cdn.shoplightspeed.com/shops/635786/themes/19214/v/435289/assets/social-media-image.jpg?20260217221128"
+    "photo": "https://cdn.shoplightspeed.com/shops/635786/themes/19214/v/435289/assets/social-media-image.jpg?20260217221128",
+    "closed": false
   },
   {
     "id": 4149300,
     "name": "REID’s Stationers",
+    "branch": null,
     "deal": "10% off regular priced merchandise",
     "category": "Cards, Stationary & Gifts",
     "neighbourhood": "17th Avenue SW",
@@ -2052,11 +2325,13 @@
     "longitude": -114.07752820000002,
     "phone": "403-229-4400",
     "placeID": "ChIJNwK9Ax9wcVMRAD_XfDn4mC0",
-    "photo": null
+    "photo": null,
+    "closed": false
   },
   {
     "id": 4149000,
     "name": "The New Gallery",
+    "branch": null,
     "deal": "10% off (excluding memberships)",
     "category": "Art Galleries & Museums",
     "neighbourhood": "Chinatown",
@@ -2067,11 +2342,13 @@
     "longitude": -114.06251639999999,
     "phone": "(403)233-2399",
     "placeID": "ChIJl2UN0v1vcVMRipFW4QNAkYo",
-    "photo": "https://freight.cargo.site/i/3992cdc35a18e6b6c4b981dad99f5d290e152f143f77f88d2af729dbddb39b0e/The-New-Gallery.png"
+    "photo": "https://freight.cargo.site/i/3992cdc35a18e6b6c4b981dad99f5d290e152f143f77f88d2af729dbddb39b0e/The-New-Gallery.png",
+    "closed": false
   },
   {
     "id": 4147900,
     "name": "The Hexagon Board Game Cafe",
+    "branch": null,
     "deal": "10% off coffee menu",
     "category": "Toys & Hobbies",
     "neighbourhood": "Hillhurst/Sunnyside",
@@ -2082,11 +2359,13 @@
     "longitude": -114.08850999999999,
     "phone": "403-209-2881",
     "placeID": "ChIJ_aEeHulvcVMR6fIyiZEWA1w",
-    "photo": null
+    "photo": null,
+    "closed": false
   },
   {
     "id": 3533000,
     "name": "Sunnyside Art Supplies",
+    "branch": null,
     "deal": "5% off purchases over $20",
     "category": "Art Supplies",
     "neighbourhood": "Hillhurst/Sunnyside",
@@ -2097,11 +2376,13 @@
     "longitude": -114.08550130000003,
     "phone": "403-475-0608",
     "placeID": "ChIJq6re1-5vcVMR_kO00EdzhuM",
-    "photo": null
+    "photo": null,
+    "closed": false
   },
   {
     "id": 3532000,
     "name": "PAWSitively Natural",
+    "branch": null,
     "deal": "10% off",
     "category": "Pet Supplies & Care",
     "neighbourhood": "Mission/Cliff Bungalow",
@@ -2112,11 +2393,13 @@
     "longitude": -114.07079629999998,
     "phone": "(403) 250-7297",
     "placeID": "ChIJ21H7dRlwcVMRpfQaTNS-xh4",
-    "photo": "https://www.pawsitivelynatural.ca/wp-content/uploads/2022/09/h4t7200.jpg"
+    "photo": "https://www.pawsitivelynatural.ca/wp-content/uploads/2022/09/h4t7200.jpg",
+    "closed": false
   },
   {
     "id": 3528700,
     "name": "Alberta Printmakers",
+    "branch": null,
     "deal": "\"10% off workshops",
     "category": "Art Galleries & Museums",
     "neighbourhood": "Manchester Industrial Park/Windsor Park",
@@ -2127,11 +2410,13 @@
     "longitude": -114.05262679999998,
     "phone": "(403) 287-1056",
     "placeID": "ChIJnaHkkqZ6cVMRFKp99oVWVok",
-    "photo": null
+    "photo": null,
+    "closed": false
   },
   {
     "id": 2687600,
-    "name": "Rosso Coffee Roasters (803 24 Ave SE)",
+    "name": "Rosso Coffee Roasters",
+    "branch": "803 24 Ave SE",
     "deal": "10% off, excluding liquor",
     "category": "Coffee, Tea, & Spice Shops",
     "neighbourhood": "17th Avenue SW",
@@ -2142,11 +2427,13 @@
     "longitude": -114.04511500000001,
     "phone": "(403) 971-1800",
     "placeID": "ChIJuRZQKgpwcVMRVU4-YUB0Zgw",
-    "photo": "https://www.rossocoffeeroasters.com/cdn/shop/files/R_YT_DP_3.png?v=1736966479"
+    "photo": "https://www.rossocoffeeroasters.com/cdn/shop/files/R_YT_DP_3.png?v=1736966479",
+    "closed": false
   },
   {
     "id": 2687601,
-    "name": "Rosso Coffee Roasters (103 17 Ave SE)",
+    "name": "Rosso Coffee Roasters",
+    "branch": "103 17 Ave SE",
     "deal": "10% off, excluding liquor",
     "category": "Coffee, Tea, & Spice Shops",
     "neighbourhood": "17th Avenue SW",
@@ -2157,11 +2444,13 @@
     "longitude": -114.063163,
     "phone": "(587) 356-0232",
     "placeID": "ChIJhyjnsARwcVMRV-2qz_9qyMg",
-    "photo": "https://www.rossocoffeeroasters.com/cdn/shop/files/R_YT_DP_3.png?v=1736966479"
+    "photo": "https://www.rossocoffeeroasters.com/cdn/shop/files/R_YT_DP_3.png?v=1736966479",
+    "closed": false
   },
   {
     "id": 2687602,
-    "name": "Rosso Coffee Roasters (140 8 Ave SE)",
+    "name": "Rosso Coffee Roasters",
+    "branch": "140 8 Ave SE",
     "deal": "10% off, excluding liquor",
     "category": "Coffee, Tea, & Spice Shops",
     "neighbourhood": "17th Avenue SW",
@@ -2172,11 +2461,13 @@
     "longitude": -114.061194,
     "phone": "(403) 264-7900",
     "placeID": "ChIJGxOPD_5vcVMR1ovpqlMrq-o",
-    "photo": "https://www.rossocoffeeroasters.com/cdn/shop/files/R_YT_DP_3.png?v=1736966479"
+    "photo": "https://www.rossocoffeeroasters.com/cdn/shop/files/R_YT_DP_3.png?v=1736966479",
+    "closed": false
   },
   {
     "id": 2687603,
-    "name": "Rosso Coffee Roasters (1402 9 Ave SE)",
+    "name": "Rosso Coffee Roasters",
+    "branch": "1402 9 Ave SE",
     "deal": "10% off, excluding liquor",
     "category": "Coffee, Tea, & Spice Shops",
     "neighbourhood": "17th Avenue SW",
@@ -2187,11 +2478,13 @@
     "longitude": -114.0310815,
     "phone": "(587) 353-7677",
     "placeID": "ChIJnSRc9q96cVMRz2p9soNj80A",
-    "photo": "https://www.rossocoffeeroasters.com/cdn/shop/files/R_YT_DP_3.png?v=1736966479"
+    "photo": "https://www.rossocoffeeroasters.com/cdn/shop/files/R_YT_DP_3.png?v=1736966479",
+    "closed": false
   },
   {
     "id": 2687604,
-    "name": "Rosso Coffee Roasters (2102 Centre St N)",
+    "name": "Rosso Coffee Roasters",
+    "branch": "2102 Centre St N",
     "deal": "10% off, excluding liquor",
     "category": "Coffee, Tea, & Spice Shops",
     "neighbourhood": "17th Avenue SW",
@@ -2202,11 +2495,13 @@
     "longitude": -114.0622662,
     "phone": "(587) 356-1643",
     "placeID": "ChIJaZd_YGZlcVMRBifV_ogWQc0",
-    "photo": "https://www.rossocoffeeroasters.com/cdn/shop/files/R_YT_DP_3.png?v=1736966479"
+    "photo": "https://www.rossocoffeeroasters.com/cdn/shop/files/R_YT_DP_3.png?v=1736966479",
+    "closed": false
   },
   {
     "id": 2687200,
     "name": "Our Daily Brett",
+    "branch": null,
     "deal": "10% off dine-in food menus",
     "category": "Restaurants & Bars",
     "neighbourhood": "Bankview/Marda Loop",
@@ -2217,11 +2512,13 @@
     "longitude": -114.0954727,
     "phone": "(403) 457-0422",
     "placeID": "ChIJV6VysyhwcVMRxh4Hh51wxik",
-    "photo": "https://www.ourdailybrett.com/cdn/shop/files/ODB-Circle-Logo_1_d0820202-bd3d-4d9b-859f-ec8c24465e9c.gif?v=1763693125"
+    "photo": "https://www.ourdailybrett.com/cdn/shop/files/ODB-Circle-Logo_1_d0820202-bd3d-4d9b-859f-ec8c24465e9c.gif?v=1763693125",
+    "closed": false
   },
   {
     "id": 2686700,
     "name": "Leroux Music",
+    "branch": null,
     "deal": "5% off all new instruments, accessories, & music lessons",
     "category": "Music Lessons",
     "neighbourhood": "Capitol Hill",
@@ -2232,11 +2529,13 @@
     "longitude": -114.0945446,
     "phone": "(403) 284-3206",
     "placeID": "ChIJv8sKrppvcVMRYpbXCePmGb0",
-    "photo": null
+    "photo": null,
+    "closed": false
   },
   {
     "id": 2685100,
     "name": "Blackbyrd Myoozik",
+    "branch": null,
     "deal": "10% off regular priced product",
     "category": "Music & Video",
     "neighbourhood": "17th Avenue SW",
@@ -2247,11 +2546,13 @@
     "longitude": -114.08814340000004,
     "phone": "(403) 367-7811",
     "placeID": "ChIJQ_qooiBwcVMRfcndk7TijFE",
-    "photo": null
+    "photo": null,
+    "closed": false
   },
   {
     "id": 2462800,
     "name": "Sidewalk Citizen Bakery",
+    "branch": null,
     "deal": "10% off on all food items, including pastries and bread. No discount on beverages.",
     "category": "Baked Goods",
     "neighbourhood": "East Village",
@@ -2262,11 +2563,13 @@
     "longitude": -114.0497767,
     "phone": "(403) 457-2245",
     "placeID": "ChIJqaajGFpwcVMRvJFUstuSXiM",
-    "photo": "https://static1.squarespace.com/static/64ef60fef135340c0d8c6d67/t/64ef65a33758611b94ddb0f7/1693410723258/2023+logo.png?format=1500w"
+    "photo": "https://static1.squarespace.com/static/64ef60fef135340c0d8c6d67/t/64ef65a33758611b94ddb0f7/1693410723258/2023+logo.png?format=1500w",
+    "closed": false
   },
   {
     "id": 2460600,
     "name": "Plant Shop",
+    "branch": null,
     "deal": "10% off, excluding workshops & sale products",
     "category": "Outdoor & Gardening",
     "neighbourhood": "Inglewood/Ramsay",
@@ -2277,11 +2580,13 @@
     "longitude": -114.0328687,
     "phone": "(403) 585-4226",
     "placeID": "ChIJSTun8696cVMRB3tvRQ1Jd88",
-    "photo": null
+    "photo": null,
+    "closed": false
   },
   {
     "id": 2459900,
     "name": "Pages Books",
+    "branch": null,
     "deal": "10% off new, regular priced books",
     "category": "Books & News",
     "neighbourhood": "Hillhurst/Sunnyside",
@@ -2292,11 +2597,13 @@
     "longitude": -114.08805319999999,
     "phone": "(403) 283-6655",
     "placeID": "ChIJe_7f3-hvcVMRwbbMUeNjhMo",
-    "photo": "https://cdn1.bookmanager.com/i/1172034//logo_navbar.png?mtime=1457562468"
+    "photo": "https://cdn1.bookmanager.com/i/1172034//logo_navbar.png?mtime=1457562468",
+    "closed": false
   },
   {
     "id": 2458000,
-    "name": "Native Tongues Taqueria (235 12 Ave SW)",
+    "name": "Native Tongues Taqueria",
+    "branch": "235 12 Ave SW",
     "deal": "10% off",
     "category": "Restaurants & Bars",
     "neighbourhood": "Beltline",
@@ -2307,11 +2614,13 @@
     "longitude": -114.06755880000003,
     "phone": "403-263-9444",
     "placeID": "ChIJdyMuOB1wcVMREs84eMYAG-M",
-    "photo": "https://static1.squarespace.com/static/62a76ae6791ab9524532835d/t/669e90186807cc326b7c15d2/1721667608906/NEW-Wordmark-BLACK.png?format=1500w"
+    "photo": "https://static1.squarespace.com/static/62a76ae6791ab9524532835d/t/669e90186807cc326b7c15d2/1721667608906/NEW-Wordmark-BLACK.png?format=1500w",
+    "closed": false
   },
   {
     "id": 2458001,
-    "name": "Native Tongues Taqueria (829 49 Ave SW)",
+    "name": "Native Tongues Taqueria",
+    "branch": "829 49 Ave SW",
     "deal": "10% off",
     "category": "Restaurants & Bars",
     "neighbourhood": "Beltline",
@@ -2322,11 +2631,13 @@
     "longitude": -114.0828678,
     "phone": "(403) 454-8976",
     "placeID": "ChIJszMU2shxcVMReKTgDPCNRGI",
-    "photo": "https://static1.squarespace.com/static/62a76ae6791ab9524532835d/t/669e90186807cc326b7c15d2/1721667608906/NEW-Wordmark-BLACK.png?format=1500w"
+    "photo": "https://static1.squarespace.com/static/62a76ae6791ab9524532835d/t/669e90186807cc326b7c15d2/1721667608906/NEW-Wordmark-BLACK.png?format=1500w",
+    "closed": false
   },
   {
     "id": 2454800,
     "name": "Lazy Loaf & Kettle",
+    "branch": null,
     "deal": "10% off meals, dine in only",
     "category": "Coffee, Tea, & Spice Shops",
     "neighbourhood": "Parkdale",
@@ -2337,11 +2648,13 @@
     "longitude": -114.1355853,
     "phone": "403-270-7810",
     "placeID": "ChIJqY8W0kxucVMRX5bywd14voc",
-    "photo": "https://lazyloafandkettle.com////wp-content/uploads/2016/06/LOGO-copy-Banner-raised-up.jpg"
+    "photo": "https://lazyloafandkettle.com////wp-content/uploads/2016/06/LOGO-copy-Banner-raised-up.jpg",
+    "closed": false
   },
   {
     "id": 2450300,
     "name": "Eyesis Eyecare",
+    "branch": null,
     "deal": "20% off excl. eye exams",
     "category": "Health & Wellness",
     "neighbourhood": "Riverbend",
@@ -2352,11 +2665,13 @@
     "longitude": -114.0151102,
     "phone": "(403) 208-4888",
     "placeID": "ChIJg25hg7BwcVMRA1krc8wbzM0",
-    "photo": "https://eyesiseyecare.ca/wp-content/uploads/2023/12/Eyesis-hp-Header.jpg"
+    "photo": "https://eyesiseyecare.ca/wp-content/uploads/2023/12/Eyesis-hp-Header.jpg",
+    "closed": false
   },
   {
     "id": 2448100,
     "name": "Bow Cycle",
+    "branch": null,
     "deal": "10% off clothing, parts and accessories (Garmin, Thule, and trainers excluded)",
     "category": "Sporting Goods & Athletic Wear",
     "neighbourhood": "Bowness",
@@ -2367,11 +2682,13 @@
     "longitude": -114.18229930000001,
     "phone": "(403) 288-5422",
     "placeID": "ChIJHegx78JucVMRdOHKSq4UjJE",
-    "photo": "https://www.sefiles.net/merchant/2916/images/site/BC17-Logo-Standard-White.png"
+    "photo": "https://www.sefiles.net/merchant/2916/images/site/BC17-Logo-Standard-White.png",
+    "closed": false
   },
   {
     "id": 2019100,
     "name": "Phoenix Comics NW",
+    "branch": null,
     "deal": "5% off all Comics and Graphic novels",
     "category": "Books & News",
     "neighbourhood": "16th Avenue NW",
@@ -2382,11 +2699,13 @@
     "longitude": -114.08360210000001,
     "phone": "(403) 220-1399",
     "placeID": "ChIJbSEiIYxvcVMRlH8ui-TBw1E",
-    "photo": "https://static1.squarespace.com/static/557664afe4b09a6eed98b6c3/t/55d3fb20e4b0bdc8a949bf11/1584730241482/main2.jpg?format=1500w"
+    "photo": "https://static1.squarespace.com/static/557664afe4b09a6eed98b6c3/t/55d3fb20e4b0bdc8a949bf11/1584730241482/main2.jpg?format=1500w",
+    "closed": false
   },
   {
     "id": 2015200,
     "name": "Fairplay Pet Supply",
+    "branch": null,
     "deal": "10% off (Discount can not be used in conjunction with other offers)",
     "category": "Pet Supplies & Care",
     "neighbourhood": "Hillhurst/Sunnyside",
@@ -2397,11 +2716,13 @@
     "longitude": -114.12107500000002,
     "phone": "403-283-2117",
     "placeID": "ChIJA_BX7clvcVMRMDRlcrhKCNY",
-    "photo": "https://www.fairplaystores.com/Images/BoyDogHay_thumb.jpg"
+    "photo": "https://www.fairplaystores.com/Images/BoyDogHay_thumb.jpg",
+    "closed": false
   },
   {
     "id": 1506600,
     "name": "PAWS Dog Daycare",
+    "branch": null,
     "deal": "10% off retail products",
     "category": "Pet Supplies & Care",
     "neighbourhood": "17th Avenue SW",
@@ -2412,11 +2733,13 @@
     "longitude": -114.09254390000001,
     "phone": "(403) 984-9247",
     "placeID": "ChIJ5V1Oo9hvcVMRzLfzCDjWPYs",
-    "photo": "https://www.pawsdogdaycare.ca/assets/images/homepage/hero-dogs-playing.webp"
+    "photo": "https://www.pawsdogdaycare.ca/assets/images/homepage/hero-dogs-playing.webp",
+    "closed": false
   },
   {
     "id": 1518200,
-    "name": "Phil and Sebastian Coffee Roasters (618 Confluence Way SE)",
+    "name": "Phil and Sebastian Coffee Roasters",
+    "branch": "618 Confluence Way SE",
     "deal": "10% off coffee drinks",
     "category": "Coffee, Tea, & Spice Shops",
     "neighbourhood": "Bankview/Marda Loop",
@@ -2427,11 +2750,13 @@
     "longitude": -114.04987800000004,
     "phone": "(403) 261-1885",
     "placeID": "ChIJzd0u2lRlcVMRoSTjaEEDL_E",
-    "photo": "https://philsebastian.com/cdn/shopifycloud/storefront/assets/no-image-100-2a702f30_small.gif"
+    "photo": "https://philsebastian.com/cdn/shopifycloud/storefront/assets/no-image-100-2a702f30_small.gif",
+    "closed": false
   },
   {
     "id": 1518201,
-    "name": "Phil and Sebastian Coffee Roasters (2043 33 Ave SW)",
+    "name": "Phil and Sebastian Coffee Roasters",
+    "branch": "2043 33 Ave SW",
     "deal": "10% off coffee drinks",
     "category": "Coffee, Tea, & Spice Shops",
     "neighbourhood": "Bankview/Marda Loop",
@@ -2442,11 +2767,13 @@
     "longitude": -114.1086148,
     "phone": "(403) 261-1885",
     "placeID": "ChIJHblriNJxcVMRvkqwjNvYLCI",
-    "photo": "https://philsebastian.com/cdn/shopifycloud/storefront/assets/no-image-100-2a702f30_small.gif"
+    "photo": "https://philsebastian.com/cdn/shopifycloud/storefront/assets/no-image-100-2a702f30_small.gif",
+    "closed": false
   },
   {
     "id": 1518202,
-    "name": "Phil and Sebastian Coffee Roasters (6455 Macleod Trail SW)",
+    "name": "Phil and Sebastian Coffee Roasters",
+    "branch": "6455 Macleod Trail SW",
     "deal": "10% off coffee drinks",
     "category": "Coffee, Tea, & Spice Shops",
     "neighbourhood": "Bankview/Marda Loop",
@@ -2457,11 +2784,13 @@
     "longitude": -114.07333790000001,
     "phone": "(403) 261-1885",
     "placeID": "ChIJdxJVPP9wcVMR-18xh_ldcsE",
-    "photo": "https://philsebastian.com/cdn/shopifycloud/storefront/assets/no-image-100-2a702f30_small.gif"
+    "photo": "https://philsebastian.com/cdn/shopifycloud/storefront/assets/no-image-100-2a702f30_small.gif",
+    "closed": false
   },
   {
     "id": 1518203,
-    "name": "Phil and Sebastian Coffee Roasters (2207 4 St SW)",
+    "name": "Phil and Sebastian Coffee Roasters",
+    "branch": "2207 4 St SW",
     "deal": "10% off coffee drinks",
     "category": "Coffee, Tea, & Spice Shops",
     "neighbourhood": "Bankview/Marda Loop",
@@ -2472,11 +2801,13 @@
     "longitude": -114.0718928,
     "phone": "(403) 261-1885",
     "placeID": "ChIJVw-1uhlwcVMR7lkSW45N9Cs",
-    "photo": "https://philsebastian.com/cdn/shopifycloud/storefront/assets/no-image-100-2a702f30_small.gif"
+    "photo": "https://philsebastian.com/cdn/shopifycloud/storefront/assets/no-image-100-2a702f30_small.gif",
+    "closed": false
   },
   {
     "id": 1518204,
-    "name": "Phil and Sebastian Coffee Roasters (102 8 Avenue SW)",
+    "name": "Phil and Sebastian Coffee Roasters",
+    "branch": "102 8 Avenue SW",
     "deal": "10% off coffee drinks",
     "category": "Coffee, Tea, & Spice Shops",
     "neighbourhood": "Bankview/Marda Loop",
@@ -2487,11 +2818,13 @@
     "longitude": -114.06340060000002,
     "phone": "(403) 261-1885",
     "placeID": "ChIJGxjAw_1vcVMRpXyb-leGLs0",
-    "photo": "https://philsebastian.com/cdn/shopifycloud/storefront/assets/no-image-100-2a702f30_small.gif"
+    "photo": "https://philsebastian.com/cdn/shopifycloud/storefront/assets/no-image-100-2a702f30_small.gif",
+    "closed": false
   },
   {
     "id": 1518205,
-    "name": "Phil and Sebastian Coffee Roasters (414 3 St SW)",
+    "name": "Phil and Sebastian Coffee Roasters",
+    "branch": "414 3 St SW",
     "deal": "10% off coffee drinks",
     "category": "Coffee, Tea, & Spice Shops",
     "neighbourhood": "Bankview/Marda Loop",
@@ -2502,11 +2835,13 @@
     "longitude": -114.06985120000002,
     "phone": "(403) 261-1885",
     "placeID": "ChIJNSl3SLlvcVMRbnx3r4urxSo",
-    "photo": "https://philsebastian.com/cdn/shopifycloud/storefront/assets/no-image-100-2a702f30_small.gif"
+    "photo": "https://philsebastian.com/cdn/shopifycloud/storefront/assets/no-image-100-2a702f30_small.gif",
+    "closed": false
   },
   {
     "id": 1518206,
-    "name": "Phil and Sebastian Coffee Roasters (225 7 Ave SW)",
+    "name": "Phil and Sebastian Coffee Roasters",
+    "branch": "225 7 Ave SW",
     "deal": "10% off coffee drinks",
     "category": "Coffee, Tea, & Spice Shops",
     "neighbourhood": "Bankview/Marda Loop",
@@ -2517,11 +2852,13 @@
     "longitude": -114.0671282,
     "phone": "(403) 261-1885",
     "placeID": "ChIJwf1qyRNvcVMRpJd9ElvQ5zs",
-    "photo": "https://philsebastian.com/cdn/shopifycloud/storefront/assets/no-image-100-2a702f30_small.gif"
+    "photo": "https://philsebastian.com/cdn/shopifycloud/storefront/assets/no-image-100-2a702f30_small.gif",
+    "closed": false
   },
   {
     "id": 1518207,
-    "name": "Phil and Sebastian Coffee Roasters (69 7a St NE)",
+    "name": "Phil and Sebastian Coffee Roasters",
+    "branch": "69 7a St NE",
     "deal": "10% off coffee drinks",
     "category": "Coffee, Tea, & Spice Shops",
     "neighbourhood": "Bankview/Marda Loop",
@@ -2532,11 +2869,13 @@
     "longitude": -114.0446678,
     "phone": "(403) 261-1885",
     "placeID": "ChIJiRhsEVVlcVMRlEoqSzz5e68",
-    "photo": "https://philsebastian.com/cdn/shopifycloud/storefront/assets/no-image-100-2a702f30_small.gif"
+    "photo": "https://philsebastian.com/cdn/shopifycloud/storefront/assets/no-image-100-2a702f30_small.gif",
+    "closed": false
   },
   {
     "id": 1518208,
-    "name": "Phil and Sebastian Coffee Roasters (25 Greenbriar Dr NW)",
+    "name": "Phil and Sebastian Coffee Roasters",
+    "branch": "25 Greenbriar Dr NW",
     "deal": "10% off coffee drinks",
     "category": "Coffee, Tea, & Spice Shops",
     "neighbourhood": "Bankview/Marda Loop",
@@ -2547,11 +2886,13 @@
     "longitude": -114.2228714,
     "phone": null,
     "placeID": "ChIJT0Wvh-pvcVMRILnCTQRJng0",
-    "photo": "https://philsebastian.com/cdn/shopifycloud/storefront/assets/no-image-100-2a702f30_small.gif"
+    "photo": "https://philsebastian.com/cdn/shopifycloud/storefront/assets/no-image-100-2a702f30_small.gif",
+    "closed": false
   },
   {
     "id": 1499200,
-    "name": "Cornerstone Music Cafe (14919 Deer Ridge Dr SE)",
+    "name": "Cornerstone Music Cafe",
+    "branch": "14919 Deer Ridge Dr SE",
     "deal": "10 % off",
     "category": "Music Lessons",
     "neighbourhood": "Deer Ridge/Deer Run",
@@ -2562,11 +2903,13 @@
     "longitude": -114.02498689999999,
     "phone": "403 278-3070",
     "placeID": "ChIJB5u0Zvt2cVMRHD6cam9d9Wc",
-    "photo": "https://static.wixstatic.com/media/396241_eba2072014da4ddc9140fefd77813076%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/396241_eba2072014da4ddc9140fefd77813076%7Emv2.jpg"
+    "photo": "https://static.wixstatic.com/media/396241_eba2072014da4ddc9140fefd77813076%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/396241_eba2072014da4ddc9140fefd77813076%7Emv2.jpg",
+    "closed": false
   },
   {
     "id": 1499201,
-    "name": "Cornerstone Music Cafe (14 Royal Vista Link NW)",
+    "name": "Cornerstone Music Cafe",
+    "branch": "14 Royal Vista Link NW",
     "deal": "10 % off",
     "category": "Music Lessons",
     "neighbourhood": "Deer Ridge/Deer Run",
@@ -2577,11 +2920,13 @@
     "longitude": -114.2028102,
     "phone": "(403) 278-3070",
     "placeID": "ChIJB5u0Zvt2cVMRHD6cam9d9Wc",
-    "photo": "https://static.wixstatic.com/media/396241_eba2072014da4ddc9140fefd77813076%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/396241_eba2072014da4ddc9140fefd77813076%7Emv2.jpg"
+    "photo": "https://static.wixstatic.com/media/396241_eba2072014da4ddc9140fefd77813076%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/396241_eba2072014da4ddc9140fefd77813076%7Emv2.jpg",
+    "closed": false
   },
   {
     "id": 1497800,
-    "name": "Lukes Drug Mart (112 4 St NE)",
+    "name": "Lukes Drug Mart",
+    "branch": "112 4 St NE",
     "deal": "10% off retail, excluding Canada Post, prescriptions, bus passes, and sale items.",
     "category": "Drug Stores & Supermarkets",
     "neighbourhood": "Crescent Heights/Bridgeland",
@@ -2592,11 +2937,13 @@
     "longitude": -114.0513447,
     "phone": "(403) 266-4142",
     "placeID": "ChIJ57WrsVZlcVMR7-SNgxHa2KM",
-    "photo": "https://static1.squarespace.com/static/5f7b77710aca82389f8c5513/t/5f7b791d6befc806d0606650/1601927457836/lukes.png?format=1500w"
+    "photo": "https://static1.squarespace.com/static/5f7b77710aca82389f8c5513/t/5f7b791d6befc806d0606650/1601927457836/lukes.png?format=1500w",
+    "closed": false
   },
   {
     "id": 1497801,
-    "name": "Lukes Drug Mart (3407 26 Ave SW)",
+    "name": "Lukes Drug Mart",
+    "branch": "3407 26 Ave SW",
     "deal": "10% off retail, excluding Canada Post, prescriptions, bus passes, and sale items.",
     "category": "Drug Stores & Supermarkets",
     "neighbourhood": "Crescent Heights/Bridgeland",
@@ -2607,11 +2954,13 @@
     "longitude": -114.1361046,
     "phone": "(403) 242-1566",
     "placeID": "ChIJXbbjMyducVMR3kG4S_6WZEM",
-    "photo": "https://static1.squarespace.com/static/5f7b77710aca82389f8c5513/t/5f7b791d6befc806d0606650/1601927457836/lukes.png?format=1500w"
+    "photo": "https://static1.squarespace.com/static/5f7b77710aca82389f8c5513/t/5f7b791d6befc806d0606650/1601927457836/lukes.png?format=1500w",
+    "closed": false
   },
   {
     "id": 1486800,
-    "name": "Yoga Santosha (1800 4 St SW)",
+    "name": "Yoga Santosha",
+    "branch": "1800 4 St SW",
     "deal": "10% off 10 class cards, one month unlimited, & studio memberships",
     "category": "Health & Wellness",
     "neighbourhood": "Hillhurst/Sunnyside",
@@ -2622,11 +2971,13 @@
     "longitude": -114.0708601,
     "phone": "(403) 244-9642",
     "placeID": "ChIJ4RNHABxwcVMRz5zAbTSJXfo",
-    "photo": "https://yogasantosha.ca/wp-content/uploads/2017/09/servYogaIco28.png"
+    "photo": "https://yogasantosha.ca/wp-content/uploads/2017/09/servYogaIco28.png",
+    "closed": false
   },
   {
     "id": 1486801,
-    "name": "Yoga Santosha (821 14 St NW)",
+    "name": "Yoga Santosha",
+    "branch": "821 14 St NW",
     "deal": "10% off 10 class cards, one month unlimited, & studio memberships",
     "category": "Health & Wellness",
     "neighbourhood": "Hillhurst/Sunnyside",
@@ -2637,11 +2988,13 @@
     "longitude": -114.09498289999999,
     "phone": "(403) 270-0219",
     "placeID": "ChIJ20FMM-tvcVMRSMSMJbkxAVo",
-    "photo": "https://yogasantosha.ca/wp-content/uploads/2017/09/servYogaIco28.png"
+    "photo": "https://yogasantosha.ca/wp-content/uploads/2017/09/servYogaIco28.png",
+    "closed": false
   },
   {
     "id": 1486300,
     "name": "Sled Island",
+    "branch": null,
     "deal": "15% off in-store only",
     "category": "Entertainment & Festivals",
     "neighbourhood": "Mission/Cliff Bungalow",
@@ -2652,11 +3005,13 @@
     "longitude": -114.07126790000001,
     "phone": "(403)229-2901",
     "placeID": "ChIJafZbuhlwcVMRvMruLbkeMUg",
-    "photo": "https://www.sledisland.com/content/image/240206-115346/2024-logo-ConnectFirst2x-Facebook_image_nO6mfsE.png"
+    "photo": "https://www.sledisland.com/content/image/240206-115346/2024-logo-ConnectFirst2x-Facebook_image_nO6mfsE.png",
+    "closed": false
   },
   {
     "id": 1486200,
-    "name": "Silk Road Spice Merchant (1419 9 Ave SE)",
+    "name": "Silk Road Spice Merchant",
+    "branch": "1419 9 Ave SE",
     "deal": "15% off spices only, online code: \"FRIEND15\"",
     "category": "Coffee, Tea, & Spice Shops",
     "neighbourhood": "Inglewood/Ramsay",
@@ -2667,11 +3022,13 @@
     "longitude": -114.0305315,
     "phone": "403-261-1955",
     "placeID": "ChIJgxsok6Z6cVMRlBLUl4KSHns",
-    "photo": "https://silkroadspices.ca/cdn/shop/files/Silk-Road-Secondary-Logo-Mobile_841375ca-bd26-4f6b-8d8f-ac73d6420ed6_1200x.jpg?v=1680644272"
+    "photo": "https://silkroadspices.ca/cdn/shop/files/Silk-Road-Secondary-Logo-Mobile_841375ca-bd26-4f6b-8d8f-ac73d6420ed6_1200x.jpg?v=1680644272",
+    "closed": false
   },
   {
     "id": 1486201,
-    "name": "Silk Road Spice Merchant (510 77 Ave SE)",
+    "name": "Silk Road Spice Merchant",
+    "branch": "510 77 Ave SE",
     "deal": "15% off spices only, online code: \"FRIEND15\"",
     "category": "Coffee, Tea, & Spice Shops",
     "neighbourhood": "Inglewood/Ramsay",
@@ -2682,11 +3039,13 @@
     "longitude": -114.0519997,
     "phone": null,
     "placeID": "ChIJCbZvG-ZwcVMRiyXXiQ7sIMo",
-    "photo": "https://silkroadspices.ca/cdn/shop/files/Silk-Road-Secondary-Logo-Mobile_841375ca-bd26-4f6b-8d8f-ac73d6420ed6_1200x.jpg?v=1680644272"
+    "photo": "https://silkroadspices.ca/cdn/shop/files/Silk-Road-Secondary-Logo-Mobile_841375ca-bd26-4f6b-8d8f-ac73d6420ed6_1200x.jpg?v=1680644272",
+    "closed": false
   },
   {
     "id": 1486202,
-    "name": "Silk Road Spice Merchant (25 Greenbriar Dr NW)",
+    "name": "Silk Road Spice Merchant",
+    "branch": "25 Greenbriar Dr NW",
     "deal": "15% off spices only, online code: \"FRIEND15\"",
     "category": "Coffee, Tea, & Spice Shops",
     "neighbourhood": "Inglewood/Ramsay",
@@ -2697,11 +3056,13 @@
     "longitude": -114.2228714,
     "phone": null,
     "placeID": "ChIJpZpBCDNvcVMR5XQGNfT5tAA",
-    "photo": "https://silkroadspices.ca/cdn/shop/files/Silk-Road-Secondary-Logo-Mobile_841375ca-bd26-4f6b-8d8f-ac73d6420ed6_1200x.jpg?v=1680644272"
+    "photo": "https://silkroadspices.ca/cdn/shop/files/Silk-Road-Secondary-Logo-Mobile_841375ca-bd26-4f6b-8d8f-ac73d6420ed6_1200x.jpg?v=1680644272",
+    "closed": false
   },
   {
     "id": 1481300,
     "name": "Calgary Folk Music Festival",
+    "branch": null,
     "deal": "10% off adult advance tickets (July Folk Fest & Winter Block Heater) at main box office",
     "category": "Entertainment & Festivals",
     "neighbourhood": "Inglewood/Ramsay",
@@ -2712,11 +3073,13 @@
     "longitude": -114.0358314,
     "phone": "(403) 233-0904",
     "placeID": "ChIJJ_JFK1ZlcVMRaa-CTtkXYec",
-    "photo": "https://d3aive3alj3zrj.cloudfront.net/uploads/half_53114482200_9c38849942_o_ff826fa348.webp"
+    "photo": "https://d3aive3alj3zrj.cloudfront.net/uploads/half_53114482200_9c38849942_o_ff826fa348.webp",
+    "closed": false
   },
   {
     "id": 1320800,
     "name": "Caffe Beano",
+    "branch": null,
     "deal": "10% off drinks",
     "category": "Coffee, Tea, & Spice Shops",
     "neighbourhood": "17th Avenue SW",
@@ -2727,11 +3090,13 @@
     "longitude": -114.0844535,
     "phone": "(403) 229-1232",
     "placeID": "ChIJL0xiRCBwcVMRsqdoPmuihKo",
-    "photo": "https://static1.squarespace.com/static/68c1a1aa7d6cad75354bdabd/t/68c1a35d03546d5da89ab390/1761260097898/caffe-beano-logo.jpg?format=1500w"
+    "photo": "https://static1.squarespace.com/static/68c1a1aa7d6cad75354bdabd/t/68c1a35d03546d5da89ab390/1761260097898/caffe-beano-logo.jpg?format=1500w",
+    "closed": false
   },
   {
     "id": 1302600,
     "name": "Weeds Cafe",
+    "branch": null,
     "deal": "10% off Lattes, Capps, Mochas",
     "category": "Coffee, Tea, & Spice Shops",
     "neighbourhood": "Capitol Hill",
@@ -2742,11 +3107,13 @@
     "longitude": -114.10496649999999,
     "phone": "(403) 282-7940",
     "placeID": "ChIJdcaSoplvcVMRMw6U-8cHHZM",
-    "photo": "https://lh3.googleusercontent.com/sitesv/AG8ngQVIAdQtlh4tRosG_gpoMw4h47ZYQz5nT0zc3IH3p0667vBX417nbjdFsm3qKiR4ghJFQsnYnYVPhstHfLzUCJlbvpBmxVypKoGdwlqZ4TB-BCL0_j5PKQ5IN2-EkRK8CQHbujOffK-_Q8QKc7QqejhkAGeKshegSRnksdLqKd-gesLpz0KeNeY15zC6_eWxM0E4xFO5obMh-yV_dySiqF8"
+    "photo": "https://lh3.googleusercontent.com/sitesv/AG8ngQVIAdQtlh4tRosG_gpoMw4h47ZYQz5nT0zc3IH3p0667vBX417nbjdFsm3qKiR4ghJFQsnYnYVPhstHfLzUCJlbvpBmxVypKoGdwlqZ4TB-BCL0_j5PKQ5IN2-EkRK8CQHbujOffK-_Q8QKc7QqejhkAGeKshegSRnksdLqKd-gesLpz0KeNeY15zC6_eWxM0E4xFO5obMh-yV_dySiqF8",
+    "closed": false
   },
   {
     "id": 958800,
     "name": "gravitypope",
+    "branch": null,
     "deal": "10% off regular price product. Some exclusions may apply.",
     "category": "Apparel & Accessories",
     "neighbourhood": "17th Avenue SW",
@@ -2757,11 +3124,13 @@
     "longitude": -114.088209,
     "phone": "403 209 0961",
     "placeID": "ChIJlxDqoR5wcVMRTEKYJsBcC-Q",
-    "photo": "https://cdn.shopify.com/s/files/1/0739/1674/3985/files/gravitypope.png?v=1681772445"
+    "photo": "https://cdn.shopify.com/s/files/1/0739/1674/3985/files/gravitypope.png?v=1681772445",
+    "closed": false
   },
   {
     "id": 958500,
     "name": "Globe Cinema",
+    "branch": null,
     "deal": "$2 off admission",
     "category": "Cinemas",
     "neighbourhood": "Downtown",
@@ -2772,11 +3141,13 @@
     "longitude": -114.07507429999998,
     "phone": "(403) 262-3309",
     "placeID": "ChIJT18ldeNvcVMRhAkzlGVPOD8",
-    "photo": null
+    "photo": null,
+    "closed": false
   },
   {
     "id": 958100,
     "name": "Quickdraw Animation Society",
+    "branch": null,
     "deal": "10% off movie screenings, in-person events only",
     "category": "Non-Profits & Societies",
     "neighbourhood": "Sunalta",
@@ -2787,11 +3158,13 @@
     "longitude": -114.1076888,
     "phone": "(403) 261-5767",
     "placeID": "ChIJl_PBguJvcVMRhMTVqQ77aNM",
-    "photo": "https://images.prismic.io/quickdraw/60d0de7f-c9e4-46ae-8e59-eb2b9440d865_opengraph.png?auto=compress,format&amp;rect=0,0,1200,630&amp;w=1200&amp;h=630"
+    "photo": "https://images.prismic.io/quickdraw/60d0de7f-c9e4-46ae-8e59-eb2b9440d865_opengraph.png?auto=compress,format&amp;rect=0,0,1200,630&amp;w=1200&amp;h=630",
+    "closed": false
   },
   {
     "id": 957200,
-    "name": "Red’s Diner (1415 4 St SW)",
+    "name": "Red’s Diner",
+    "branch": "1415 4 St SW",
     "deal": "10% off (excluding delivery & alcohol)",
     "category": "Restaurants & Bars",
     "neighbourhood": "Beltline",
@@ -2802,11 +3175,13 @@
     "longitude": -114.0718946,
     "phone": "(403) 266-3448",
     "placeID": "ChIJhdfQORxwcVMRt14-i9uuzRM",
-    "photo": "https://popmenucloud.com/cdn-cgi/image/width=1200,height=630,format=auto,fit=cover/pxdvijat/26ff6ec6-755c-44a7-a68e-e02c900319c0.jpg"
+    "photo": "https://popmenucloud.com/cdn-cgi/image/width=1200,height=630,format=auto,fit=cover/pxdvijat/26ff6ec6-755c-44a7-a68e-e02c900319c0.jpg",
+    "closed": false
   },
   {
     "id": 957201,
-    "name": "Red’s Diner (1101 8 St SE)",
+    "name": "Red’s Diner",
+    "branch": "1101 8 St SE",
     "deal": "10% off (excluding delivery & alcohol)",
     "category": "Restaurants & Bars",
     "neighbourhood": "Beltline",
@@ -2817,11 +3192,13 @@
     "longitude": -114.04201080000001,
     "phone": "(587) 353-1188",
     "placeID": "ChIJRb0i5ah6cVMRp4prSWwsLsM",
-    "photo": "https://popmenucloud.com/cdn-cgi/image/width=1200,height=630,format=auto,fit=cover/pxdvijat/26ff6ec6-755c-44a7-a68e-e02c900319c0.jpg"
+    "photo": "https://popmenucloud.com/cdn-cgi/image/width=1200,height=630,format=auto,fit=cover/pxdvijat/26ff6ec6-755c-44a7-a68e-e02c900319c0.jpg",
+    "closed": false
   },
   {
     "id": 957202,
-    "name": "Red’s Diner (286 10 St NW)",
+    "name": "Red’s Diner",
+    "branch": "286 10 St NW",
     "deal": "10% off (excluding delivery & alcohol)",
     "category": "Restaurants & Bars",
     "neighbourhood": "Beltline",
@@ -2832,11 +3209,13 @@
     "longitude": -114.0856565,
     "phone": "(587) 356-1808",
     "placeID": "ChIJ0eiLxu5vcVMR2Fso7VTZFmQ",
-    "photo": "https://popmenucloud.com/cdn-cgi/image/width=1200,height=630,format=auto,fit=cover/pxdvijat/26ff6ec6-755c-44a7-a68e-e02c900319c0.jpg"
+    "photo": "https://popmenucloud.com/cdn-cgi/image/width=1200,height=630,format=auto,fit=cover/pxdvijat/26ff6ec6-755c-44a7-a68e-e02c900319c0.jpg",
+    "closed": false
   },
   {
     "id": 957203,
-    "name": "Red’s Diner (324 58 Ave SE)",
+    "name": "Red’s Diner",
+    "branch": "324 58 Ave SE",
     "deal": "10% off (excluding delivery & alcohol)",
     "category": "Restaurants & Bars",
     "neighbourhood": "Beltline",
@@ -2847,11 +3226,13 @@
     "longitude": -114.05878,
     "phone": "(403) 386-6688",
     "placeID": "ChIJbf-dFdVxcVMR-kXG2yfCVNg",
-    "photo": "https://popmenucloud.com/cdn-cgi/image/width=1200,height=630,format=auto,fit=cover/pxdvijat/26ff6ec6-755c-44a7-a68e-e02c900319c0.jpg"
+    "photo": "https://popmenucloud.com/cdn-cgi/image/width=1200,height=630,format=auto,fit=cover/pxdvijat/26ff6ec6-755c-44a7-a68e-e02c900319c0.jpg",
+    "closed": false
   },
   {
     "id": 957000,
     "name": "The Roasterie",
+    "branch": null,
     "deal": "15% of coffee beans",
     "category": "Coffee, Tea, & Spice Shops",
     "neighbourhood": "Hillhurst/Sunnyside",
@@ -2862,11 +3243,13 @@
     "longitude": -114.08570600000002,
     "phone": "(403) 270-3304",
     "placeID": "ChIJ9yYev-5vcVMRSqhoSLJwjMk",
-    "photo": "https://roasterie.com/cdn/shop/files/jelen.no.sign.png?height=628&pad_color=ffffff&v=1711070248&width=1200"
+    "photo": "https://roasterie.com/cdn/shop/files/jelen.no.sign.png?height=628&pad_color=ffffff&v=1711070248&width=1200",
+    "closed": false
   },
   {
     "id": 46500,
     "name": "Calgary Underground Film Festival – CUFF",
+    "branch": null,
     "deal": "$2 off",
     "category": "Entertainment & Festivals",
     "neighbourhood": "Downtown",
@@ -2877,11 +3260,13 @@
     "longitude": -114.0750095,
     "phone": "(403) 852-0279",
     "placeID": "ChIJJyTiMR1wcVMRnIrrNGtVppQ",
-    "photo": "https://www.calgaryundergroundfilm.org/content/images/Letterboxd-background.original.jpg"
+    "photo": "https://www.calgaryundergroundfilm.org/content/images/Letterboxd-background.original.jpg",
+    "closed": false
   },
   {
     "id": 46100,
     "name": "Shelf Life Books",
+    "branch": null,
     "deal": "10% off books",
     "category": "Books & News",
     "neighbourhood": "Beltline",
@@ -2892,11 +3277,13 @@
     "longitude": -114.07133329999999,
     "phone": "403-265-1033",
     "placeID": "ChIJNRhlox1wcVMR2tB690SQvbs",
-    "photo": "https://cdn1.bookmanager.com/i/7603274//website/ShelfLife_logo_bxw.png?mtime=1728513137"
+    "photo": "https://cdn1.bookmanager.com/i/7603274//website/ShelfLife_logo_bxw.png?mtime=1728513137",
+    "closed": false
   },
   {
     "id": 46000,
     "name": "Redd Skull Comics",
+    "branch": null,
     "deal": "15% off back issues, 10% off graphic novels, toys and posters",
     "category": "Books & News",
     "neighbourhood": "Renfrew",
@@ -2907,11 +3294,13 @@
     "longitude": -114.0541558,
     "phone": "(403) 230-2716",
     "placeID": "ChIJDSaYEFplcVMR7gZnxZiroW0",
-    "photo": null
+    "photo": null,
+    "closed": false
   },
   {
     "id": 45700,
     "name": "Sloth Records",
+    "branch": null,
     "deal": "10% off, excluding consignment items, tickets, RSD releases; cannot be combined with other sales or discounts",
     "category": "Music & Video",
     "neighbourhood": "17th Avenue SW",
@@ -2922,11 +3311,13 @@
     "longitude": -114.078979,
     "phone": "403-265-6585",
     "placeID": "ChIJMwZdCh9wcVMRiafNW2byENI",
-    "photo": "https://secure.gravatar.com/blavatar/c17133c87560104809894f8cd0185111b132bd28459b4227eacfcb92448f1cb6?s=200&#038;ts=1788382926"
+    "photo": "https://secure.gravatar.com/blavatar/c17133c87560104809894f8cd0185111b132bd28459b4227eacfcb92448f1cb6?s=200&#038;ts=1788382926",
+    "closed": false
   },
   {
     "id": 44600,
     "name": "Inglewood Art Supplies",
+    "branch": null,
     "deal": "20% off (excluding classes and workshops)",
     "category": "Art Supplies",
     "neighbourhood": "Crescent Heights/Bridgeland",
@@ -2937,11 +3328,13 @@
     "longitude": -114.04913899999997,
     "phone": "403-265-8961",
     "placeID": "ChIJT2DFva56cVMRdUvfD5ywCjg",
-    "photo": "https://dhgf5mcbrms62.cloudfront.net/99122778/global/VXcbjNt-1200x1200.jpg"
+    "photo": "https://dhgf5mcbrms62.cloudfront.net/99122778/global/VXcbjNt-1200x1200.jpg",
+    "closed": false
   },
   {
     "id": 43600,
-    "name": "Purr (112 10 St NW)",
+    "name": "Purr",
+    "branch": "112 10 St NW",
     "deal": "10% off regular priced items",
     "category": "Apparel & Accessories",
     "neighbourhood": "17th Avenue SW",
@@ -2952,11 +3345,13 @@
     "longitude": -114.0857543,
     "phone": "(403) 270-3585",
     "placeID": "ChIJJWgjBOlvcVMRoEXRgWa6F_I",
-    "photo": null
+    "photo": null,
+    "closed": false
   },
   {
     "id": 43601,
-    "name": "Purr (1227 9 Ave SE)",
+    "name": "Purr",
+    "branch": "1227 9 Ave SE",
     "deal": "10% off regular priced items",
     "category": "Apparel & Accessories",
     "neighbourhood": "17th Avenue SW",
@@ -2967,11 +3362,13 @@
     "longitude": -114.0350064,
     "phone": "(403) 266-7587",
     "placeID": "ChIJhYdMr696cVMR6B0vl4aIKp8",
-    "photo": null
+    "photo": null,
+    "closed": false
   },
   {
     "id": 43602,
-    "name": "Purr (940 17 Ave SW)",
+    "name": "Purr",
+    "branch": "940 17 Ave SW",
     "deal": "10% off regular priced items",
     "category": "Apparel & Accessories",
     "neighbourhood": "17th Avenue SW",
@@ -2982,11 +3379,13 @@
     "longitude": -114.0839575,
     "phone": "(403) 244-7877",
     "placeID": "ChIJ4-UP6x5wcVMRkRfGT2rAZII",
-    "photo": null
+    "photo": null,
+    "closed": false
   },
   {
     "id": 38200,
-    "name": "Boogie’s Burgers (908 Edmonton Trail NE)",
+    "name": "Boogie’s Burgers",
+    "branch": "908 Edmonton Trail NE",
     "deal": "15% off",
     "category": "Restaurants & Bars",
     "neighbourhood": "Crescent Heights/Bridgeland",
@@ -2997,11 +3396,13 @@
     "longitude": -114.05411759999998,
     "phone": "(403) 230-7070",
     "placeID": "ChIJ5-kcEwtlcVMRNU96qQ_q4Lw",
-    "photo": "https://static1.squarespace.com/static/60db7028d5b03028798598b0/t/62745ec89c9b455c69b4a596/1651793612140/social+images-06.png?format=1500w"
+    "photo": "https://static1.squarespace.com/static/60db7028d5b03028798598b0/t/62745ec89c9b455c69b4a596/1651793612140/social+images-06.png?format=1500w",
+    "closed": false
   },
   {
     "id": 38201,
-    "name": "Boogie’s Burgers (2129 33 Ave SW)",
+    "name": "Boogie’s Burgers",
+    "branch": "2129 33 Ave SW",
     "deal": "15% off",
     "category": "Restaurants & Bars",
     "neighbourhood": "Crescent Heights/Bridgeland",
@@ -3012,11 +3413,13 @@
     "longitude": -114.11121700000001,
     "phone": "(403) 454-2902",
     "placeID": "ChIJn-s9FNJxcVMRUMnniNJ_LJY",
-    "photo": "https://static1.squarespace.com/static/60db7028d5b03028798598b0/t/62745ec89c9b455c69b4a596/1651793612140/social+images-06.png?format=1500w"
+    "photo": "https://static1.squarespace.com/static/60db7028d5b03028798598b0/t/62745ec89c9b455c69b4a596/1651793612140/social+images-06.png?format=1500w",
+    "closed": false
   },
   {
     "id": 38100,
     "name": "Palomino Smokehouse",
+    "branch": null,
     "deal": "50% off brunch Saturday and Sunday 11:30am - 2:30pm. One per guest. Food Only. Some restrictions apply.",
     "category": "Restaurants & Bars",
     "neighbourhood": "Downtown",
@@ -3027,11 +3430,13 @@
     "longitude": -114.06357919999999,
     "phone": "(403) 532-1911",
     "placeID": "ChIJbZUHzv1vcVMRLaDykBi7I3E",
-    "photo": "https://thepalomino.ca/wp-content/uploads/2023/11/palomino-menu-banner-04.jpg"
+    "photo": "https://thepalomino.ca/wp-content/uploads/2023/11/palomino-menu-banner-04.jpg",
+    "closed": false
   },
   {
     "id": 37500,
     "name": "Dickens",
+    "branch": null,
     "deal": "15% off food",
     "category": "Restaurants & Bars",
     "neighbourhood": "Downtown",
@@ -3042,6 +3447,7 @@
     "longitude": -114.08419520000001,
     "phone": "(403) 233-7550",
     "placeID": "ChIJATXRKudvcVMRUd6nrVaK2W4",
-    "photo": null
+    "photo": null,
+    "closed": false
   }
 ]
