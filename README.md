@@ -70,11 +70,12 @@ Every key is present on every record. `null` means "not known", never "empty".
 | `area` | string \| null | 20/203 | A hand-assigned override for the area a record belongs to. `null` — the usual case — means "work it out from the coordinate", per `areas.json`. |
 | `address` | string | 203/203 | Free text as entered upstream. Formatting is inconsistent; the coordinates are the reliable location. |
 | `website` | string \| null | 198/203 | Normalised to `https://` where the host supports it, tracking parameters stripped. |
-| `latitude` / `longitude` | float \| null | 203/203 | WGS84. From Google Places via the source CMS, with hand corrections. Precise enough for a 100 m geofence. |
+| `latitude` / `longitude` | float \| null | 203/203 | WGS84. From Google Places via the source CMS, with hand corrections. Precise enough to put a pin on the right storefront. |
 | `phone` | string \| null | 176/203 | Digits as entered — no formatting, no country code, occasionally with punctuation. |
 | `placeID` | string \| null | 198/203 | Google Places id, resolved by business name, not by address geocode. Use it to fetch hours, rating and open/closed live. |
 | `photo` | string \| null | 143/203 | The business's own `og:image`. Collected but unused: about half are logos or banners rather than photos of the place. Quality varies; check before shipping it. |
 | `closed` | bool | 203/203 | `true` when Google reported the location permanently closed at the last audit. It is a stored conclusion, not a live check — re-verify against `placeID` before telling anyone a shop has shut. Businesses confirmed gone are removed outright rather than flagged. |
+| `firstSeen` | int | 203/203 | The card year the location first appeared on the list: `2026` is the card that starts 1 October 2026. Compare it with the current card year to find what is new. |
 
 ### Two things that will bite you
 
@@ -84,6 +85,12 @@ away. That is why `placeID` is here and a `hours` field is not.
 
 **`photo` URLs may be `http://`.** They are upgraded where the host answers on TLS, but
 some do not. Android blocks cleartext by default, which is the correct behaviour.
+
+### Checking for updates
+
+`version.json` holds `{"version": N, "published": "YYYY-MM-DD"}`, and `N` goes up by one
+every time `friends.json` changes. Poll that small file and fetch the list only when the
+number moves; this is exactly what the YYCfriends app does.
 
 ## Categories
 
@@ -122,8 +129,8 @@ no district here, and filing them under the nearest one 7 km away would be worse
 quadrant rule calls that "NE", which is true of the compass and a lie about the
 neighbourhood.
 
-Districts are circles rather than boundaries because they are also the app's geofences.
-Where a circle gets a district wrong — downtown ends at the river and the rail line, not at
+Districts are circles rather than boundaries because they were sized to cover clusters of
+businesses, not to trace the City's community limits. Where a circle gets a district wrong — downtown ends at the river and the rail line, not at
 a 600 m radius — the record carries an explicit `area` instead. That is what those 20 are.
 
 ## Provenance, and what is not here
